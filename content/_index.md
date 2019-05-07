@@ -1,10 +1,12 @@
 ---
-title: "Startseite"
+title: "Willkommen"
 menu:
   main:
     weight: 1
 ---
+<br>
+![alt text](images/Restaurant_Alpenblick_Saas-Fee.jpg "Restaurant Alpenblick Saas-Fee")
 
-![alt text](images/Cafe_Alpenblick.jpg "Logo Title Text 1")
+Wir heissen Sie ab dem 23. Juni 2019 herzlich Willkommen im neu eröffneten Restaurant Alpenblick in Saas-Fee!
 
-hallo text
+_Petra Reihaar & Adrian Schwerzmann_

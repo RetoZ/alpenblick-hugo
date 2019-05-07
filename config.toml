@@ -1,8 +1,9 @@
 baseurl = "https://example.org/"
-title = "Café Alpenblick Saas-Fee"
+title = "Rest. Alpenblick Saas-Fee"
 theme = "arabica"
 
 [params]
-    description = "Essen Trinken Geniessen"
+    description = "Essen   –   Trinken   –   Geniessen"
     dateFormatToUse = "2006-01-02"
     replaceGoogleFonts = "fonts.loli.net"
+    footerCopyright = "Alpenblick Gastro GmbH"
