@@ -5,7 +5,10 @@
 				{{ if .Site.Params.logoTitle }}
 					{{ .Site.Params.logoTitle | safeHTML }}
 				{{ else }}
-           {{ .Site.Title }}
+					 {{ .Site.Title }}
+					 {{ with .Site.Params.titleSecondRow}}
+					 <br /> {{ . }}
+					 {{ end }}
 				{{ end }}
 			</a>
 		</h1>

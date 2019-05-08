@@ -33,7 +33,7 @@ _Freizeit_
 
 ![alt text](../images/Adrian_Schwerzmann.jpg "Adrian Schwerzmann")
 
-_Leben_ 
+_Leben_
 <br>
 – Aufgewachsen in Rotkreuz/ZG
 
