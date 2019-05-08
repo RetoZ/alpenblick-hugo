@@ -1,0 +1,36 @@
+/* Two-Columns */
+
+.two-column {
+  display: flex;
+}
+
+.two-column > * {
+  flex-basis: 50%;
+}
+
+.two-column > :first-child {
+  padding-right: 15px;
+}
+
+.two-column > :last-child {
+  padding-left: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  .two-column {
+    display: block;
+  }
+}
+
+
+/* Overriding original styles */
+
+/* Images align left */
+.post img {
+  margin: 0 0 0.5rem;
+}
+
+/* spacing afterwards */
+/* .post-title {
+  margin-bottom: 25px;
+} */
