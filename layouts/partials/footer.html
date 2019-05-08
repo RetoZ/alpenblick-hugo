@@ -1,7 +1,7 @@
 <footer class="site-footer">
   {{ with .Site.Params.twitter }}<section class="twitter"><a class="icon-twitter" href="https://twitter.com/{{ . }}"> {{ . }}</a></section>{{ end }}
   {{ with .Site.Params.facebook }}<section class="facebook"><a class="icon-facebook" href="https://www.facebook.com/{{ . }}"> {{ . }}</a></section>{{ end }}
-  <section class="copyright">&copy; {{ now.Format "2006" }} {{ .Site.Title }}</section>
+  <section class="copyright">&copy; {{ now.Format "2006" }} {{ .Site.Params.footerCopyright }}</section>
   <section class="poweredby">Published with <a href="https://gohugo.io">Hugo</a>.</section>
 </footer>
 <!-- custom js -->
