@@ -31,6 +31,50 @@
 }
 
 /* spacing afterwards */
-/* .post-title {
+.post-title {
   margin-bottom: 25px;
-} */
+}
+
+/* spacing before H2 */
+article.post.page {
+  margin-top: 0;
+}
+
+h2.post-title {
+  margin-top: 0;
+}
+
+/* styling H3 */
+h3 {
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 36px;
+}
+
+h3:first-child {
+  margin-top: 0;
+}
+
+/* styling unordered/ordered lists (ul und ol) */
+ul, ol {
+  margin-top: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+/* styling bullet point unordered lists */
+ul {
+  list-style-type: none;
+}
+
+ul>li {
+  padding-left: 20px;
+  position: relative;
+}
+
+ul>li::before {
+  content: "\2014";
+  position: absolute;
+  left: 0;
+}

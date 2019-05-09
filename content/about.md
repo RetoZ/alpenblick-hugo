@@ -6,44 +6,25 @@ menu:
 ---
 {{% two-columns %}}
 {{% column %}}
-<br>
-**Petra Reithaar**
+### Petra Reithaar
 
 ![alt text](../images/Petra_Reithaar.jpg "Petra Reithaar")
-
-_Leben_
-<br>
-– Aufgewachsen in ???
-
-_Gastronomie_
-<br>
-– 2000 bis 2008 Bli bla blo
-<br>
-– 2008 bis 2019 Chef de Service Restaurant Central, Affoltern/ZH
-
-_Freizeit_
-<br>
-– Wandern, Shopping, Saas-Fee
 
 {{% /column %}}
 
 {{% column %}}
-<br>
-**Adrian Schwerzmann**
+
+### Adrian Schwerzmann
 
 ![alt text](../images/Adrian_Schwerzmann.jpg "Adrian Schwerzmann")
 
-_Leben_
-<br>
-– Aufgewachsen in Rotkreuz/ZG
-
-_Gastronomie_
-<br>
-– 1910 bis 2019 Koch im Gasthaus Bauernhof, Baar/ZG
-
-_Freizeit_
-<br>
-– Wandern, Klettern, Skitouren, Saas-Fee
-
 {{% /column %}}
 {{% /two-columns %}}
+
+Seit nun schon 20 Jahren sind Petra und Adrian mit Leidenschaft in der Gastronomie unterwegs. 
+
+Adrian ist passionierter Koch und in der Freizeit meistens in den Bergen unterwegs, sei es mit den Skiern, mit dem Bike oder als Bergsteiger. 
+
+Petra ist seit der Ausbildung im Service immer für das Wohl der Gäste besorgt und verbringt ihre freien Tage ebenfalls gerne in den Bergen, sei es beim Wandern, Skifahren oder beim Lesen.
+
+Die beiden haben sich nicht nur vor über 15 Jahren hier in Saas-Fee kennen und lieben gelernt, sondern auch der Ort selbst ist ihnen sehr ans Herz gewachsen. Dies ist auch der Grund, weshalb sie schon oft ihre Ferien hier verbracht haben.

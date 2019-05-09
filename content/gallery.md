@@ -4,9 +4,8 @@ menu:
   main:
     weight: 3
 ---
-<br>
 ![alt text](../images/Restaurant_Alpenblick_Saas-Fee.jpg "Restaurant Alpenblick Saas-Fee")
-<br>
+
 ![alt text](../images/Restaurant_Alpenblick_Saas-Fee.jpg "Restaurant Alpenblick Saas-Fee")
-<br>
+
 ![alt text](../images/Restaurant_Alpenblick_Saas-Fee.jpg "Restaurant Alpenblick Saas-Fee")
