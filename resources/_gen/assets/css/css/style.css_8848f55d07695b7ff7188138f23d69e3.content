@@ -25,6 +25,10 @@
 
 /* Overriding original styles */
 
+img {
+  max-width: 100%;
+}
+
 /* Images align left */
 .post img {
   margin: 0 0 0.5rem;
