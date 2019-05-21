@@ -10,4 +10,4 @@ menu:
 
 Momentan sind wir fleissig am um- und anbauen, damit wir Sie ab dem 23. Juni 2019 im neuen Restaurant Alpenblick begrüssen können. Wir freuen uns darauf, Sie mit einfachen Schweizer und Walliser Spezialitäten und hausgemachten Kuchen verköstigen zu dürfen.
 
-_Petra Reihaar & Adrian Schwerzmann_
+_Petra Reithaar & Adrian Schwerzmann_

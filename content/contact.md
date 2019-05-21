@@ -16,8 +16,11 @@ Telefon 076 539 32 78
 E-Mail <a href="mailto:info@alpenblick-saasfee.ch">info@alpenblick-saasfee.ch</a>
 
 ### Öffnungszeiten
-* Mittwoch bis Montag, 09.00 bis 17.00 Uhr.
-* Dienstag geschlossen.
+Mittwoch bis Montag, 09.00 bis 17.00 Uhr.
+<br>
+Dienstag geschlossen.
+<br>
+Auf Anfrage für Gruppen am Abend geöffnet.
 
 ### Lage
 Über eine einstündige, gemütliche Wanderung erreichen Sie uns via Wildi, Alphitta und dem idyllischen Melchboden. 
