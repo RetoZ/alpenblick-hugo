@@ -22,7 +22,6 @@ menu:
 ![Essen](../images/Alpenblick_Essen_09.jpg "Essen")
 {{% /column %}}
 {{% column %}}
-![Essen](../images/Alpenblick_Essen_02.jpg "Essen")
 ![Essen](../images/Alpenblick_Essen_04.jpg "Essen")
 ![Essen](../images/Alpenblick_Essen_06.jpg "Essen")
 ![Essen](../images/Alpenblick_Essen_08.jpg "Essen")

@@ -10,6 +10,8 @@ menu:
 
 ## Herzlich Willkommen ...
 
-... im neu umgebauten Restaurant Alpenblick! Wir bieten eine wunderschöne Terrasse mit herrlicher Aussicht und ein rustikales Interieur in unserer Zuckmayer Stube. Wir verwöhnen sie mit Schweizer Küche und feinen hausgemachten Kuchen und freuen uns auf Ihren Besuch.
+... im neu umgebauten Restaurant Alpenblick! Geniessen Sie unsere wunderschöne Terrasse mit herrlicher Aussicht und das rustikale Interieur unserer Zuckmayer Stube. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt. 
 
-_Petra Reithaar & Adrian Schwerzmann_
+Wir freuen uns auf Ihren Besuch.
+
+_Petra & Adrian_
