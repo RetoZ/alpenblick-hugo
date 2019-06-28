@@ -4,10 +4,12 @@ menu:
   main:
     weight: 1
 ---
-![Umbau](images/Alpenblick_Umbau_01.jpg "Umbau")
+![Terrasse](images/Alpenblick_Aussen_01.jpg "Terrasse")
 
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_SW.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-Momentan sind wir fleissig am um- und anbauen, damit wir Sie ab dem 23. Juni 2019 im neuen Restaurant Alpenblick begrüssen können. Wir freuen uns darauf, Sie mit einfachen Schweizer und Walliser Spezialitäten und hausgemachten Kuchen verköstigen zu dürfen.
+## Herzlich Willkommen ...
+
+... im neu umgebauten Restaurant Alpenblick! Wir bieten eine wunderschöne Terrasse mit herrlicher Aussicht und ein rustikales Interieur in unserer Zuckmayer Stube. Wir verwöhnen sie mit Schweizer Küche und feinen hausgemachten Kuchen und freuen uns auf Ihren Besuch.
 
 _Petra Reithaar & Adrian Schwerzmann_

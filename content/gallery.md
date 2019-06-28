@@ -4,6 +4,41 @@ menu:
   main:
     weight: 3
 ---
+### Terrasse
+![Terrasse](../images/Alpenblick_Aussen_01.jpg "Terrasse")
+
+![Terrasse](../images/Alpenblick_Aussen_02.jpg "Terrasse")
+
+![Terrasse](../images/Alpenblick_Aussen_03.jpg "Terrasse")
+
+### En guete
+
+{{% two-columns %}}
+{{% column %}}
+![Essen](../images/Alpenblick_Essen_01.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_03.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_05.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_07.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_09.jpg "Essen")
+{{% /column %}}
+{{% column %}}
+![Essen](../images/Alpenblick_Essen_02.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_04.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_06.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_08.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_10.jpg "Essen")
+{{% /column %}}
+{{% /two-columns %}}
+
+### Aussicht Winter
+![Allalinhorn](../images/Allalinhorn_01.jpg "Allalinhorn")
+
+![Allalinhorn](../images/Allalinhorn_02.jpg "Allalinhorn")
+
+![Allalinhorn und Alphubel](../images/Alpenblick_Allalinhorn_und_Alphubel.jpg "Allalinhorn und Alphubel")
+
+![Dom](../images/Alpenblick_Dom.jpg "Dom")
+
 ### Umbau 2019
 ![Umbau](../images/Alpenblick_Umbau_03.jpg "Umbau")
 
@@ -20,12 +55,3 @@ menu:
 
 ### Ansicht bis 2019
 ![Restaurant Alpenblick Saas-Fee](../images/Restaurant_Alpenblick_Saas_Fee.jpg "Restaurant Alpenblick Saas-Fee")
-
-### Aussicht
-![Allalinhorn](../images/Allalinhorn_01.jpg "Allalinhorn")
-
-![Allalinhorn](../images/Allalinhorn_02.jpg "Allalinhorn")
-
-![Allalinhorn und Alphubel](../images/Alpenblick_Allalinhorn_und_Alphubel.jpg "Allalinhorn und Alphubel")
-
-![Dom](../images/Alpenblick_Dom.jpg "Dom")
