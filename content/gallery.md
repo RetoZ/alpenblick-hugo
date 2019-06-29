@@ -4,6 +4,11 @@ menu:
   main:
     weight: 3
 ---
+### Zuckmayer Stube
+![Terrasse](../images/Alpenblick_Innen_01.jpg "Terrasse")
+
+![Terrasse](../images/Alpenblick_Innen_02.jpg "Terrasse")
+
 ### Terrasse
 ![Terrasse](../images/Alpenblick_Aussen_01.jpg "Terrasse")
 
@@ -22,9 +27,9 @@ menu:
 ![Essen](../images/Alpenblick_Essen_09.jpg "Essen")
 {{% /column %}}
 {{% column %}}
-![Essen](../images/Alpenblick_Essen_04.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_12.jpg "Essen")
 ![Essen](../images/Alpenblick_Essen_06.jpg "Essen")
-![Essen](../images/Alpenblick_Essen_08.jpg "Essen")
+![Essen](../images/Alpenblick_Essen_11.jpg "Essen")
 ![Essen](../images/Alpenblick_Essen_10.jpg "Essen")
 {{% /column %}}
 {{% /two-columns %}}

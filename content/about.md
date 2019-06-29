@@ -5,15 +5,17 @@ menu:
     weight: 2
 ---
 ### Petra Reithaar & Adrian Schwerzmann
-{{% two-columns %}}
-{{% column %}}
-![Petra Reithaar & Adrian Schwerzmann](../images/Kontakt_01.jpg "Petra Reithaar & Adrian Schwerzmann")
-{{% /column %}}
-{{% column %}}
-![Petra Reithaar & Adrian Schwerzmann](../images/Kontakt_02.jpg "Petra Reithaar & Adrian Schwerzmann")
-{{% /column %}}
-{{% /two-columns %}}
 
+![Petra Reithaar & Adrian Schwerzmann](../images/Alpenblick_Kontakt_03.jpg "Petra Reithaar & Adrian Schwerzmann")
+
+<!-- {{% two-columns %}}
+{{% column %}}
+![Petra Reithaar & Adrian Schwerzmann](../images/Alpenblick_Kontakt_01.jpg "Petra Reithaar & Adrian Schwerzmann")
+{{% /column %}}
+{{% column %}}
+![Petra Reithaar & Adrian Schwerzmann](../images/Alpenblick_Kontakt_02.jpg "Petra Reithaar & Adrian Schwerzmann")
+{{% /column %}}
+{{% /two-columns %}} -->
 Seit nun schon 20 Jahren sind Petra und Adrian mit Leidenschaft in der Gastronomie tätig. 
 
 Adrian ist passionierter Koch und in der Freizeit viel in den Bergen unterwegs, sei es mit den Skiern, mit dem Bike oder als Bergsteiger. 
