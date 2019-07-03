@@ -4,7 +4,7 @@ menu:
   main:
     weight: 1
 ---
-![Terrasse](images/Alpenblick_Terrasse_01.jpg "Terrasse")
+![Terrasse](images/Alpenblick_Ansicht_04.jpg "Terrasse")
 
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_SW.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 

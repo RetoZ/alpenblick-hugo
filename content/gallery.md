@@ -11,17 +11,20 @@ menu:
 
 ![Ansicht](../images/Alpenblick_Ansicht_03.jpg "Ansicht")
 
+![Ansicht](../images/Alpenblick_Ansicht_04.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_05.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_06.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_07.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_08.jpg "Ansicht")
+
 ### Zuckmayer Stube
 ![Terrasse](../images/Alpenblick_Innen_01.jpg "Terrasse")
 
 ![Terrasse](../images/Alpenblick_Innen_02.jpg "Terrasse")
-
-### Terrasse
-![Terrasse](../images/Alpenblick_Terrasse_01.jpg "Terrasse")
-
-![Terrasse](../images/Alpenblick_Terrasse_02.jpg "Terrasse")
-
-![Terrasse](../images/Alpenblick_Terrasse_03.jpg "Terrasse")
 
 ### En guete
 
