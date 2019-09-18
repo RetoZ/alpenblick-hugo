@@ -15,6 +15,6 @@ Verbringen Sie mit uns einen gemütlichen Abend bei unserem
 ### am Sonntag, 13. Oktober 2019, ab 18.30 Uhr.
 <br>
 Wir freuen uns auf Ihre Reservation unter 076 539 32 78 oder <br>
-info@alpenblick-saasfee.ch bis Freitag, 13. September 2019.
+info@alpenblick-saasfee.ch bis Samstag, 12. Oktober 2019.
 
 _Petra & Adi_
