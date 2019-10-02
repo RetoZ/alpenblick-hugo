@@ -12,9 +12,12 @@ menu:
 Verbringen Sie mit uns einen gemütlichen Abend bei unserem 
 
 # Vollmond Raclette Plausch
-### am Sonntag, 13. Oktober 2019, ab 18.30 Uhr.
-<br>
+**am Sonntag, 13. Oktober 2019, ab 18.30 Uhr.**
+
 Wir freuen uns auf Ihre Reservation unter 076 539 32 78 oder <br>
 info@alpenblick-saasfee.ch bis Samstag, 12. Oktober 2019.
+
+---
+**Aus familiären Gründen bleibt der Alpenblick am Freitag, 11. Oktober 2019 geschlossen.**
 
 _Petra & Adi_
