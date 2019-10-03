@@ -5,9 +5,15 @@ menu:
     weight: 3
 ---
 ### Ansicht
-![Ansicht](../images/Alpenblick_Ansicht_01.jpg "Ansicht")
+![Ansicht](../images/Alpenblick_Ansicht_10.jpg "Ansicht")
 
-![Ansicht](../images/Alpenblick_Ansicht_02.jpg "Ansicht")
+![Ansicht](../images/Alpenblick_Ansicht_09.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_11.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_12.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_01.jpg "Ansicht")
 
 ![Ansicht](../images/Alpenblick_Ansicht_03.jpg "Ansicht")
 
@@ -19,12 +25,12 @@ menu:
 
 ![Ansicht](../images/Alpenblick_Ansicht_07.jpg "Ansicht")
 
-![Ansicht](../images/Alpenblick_Ansicht_08.jpg "Ansicht")
-
 ### Zuckmayer Stube
-![Terrasse](../images/Alpenblick_Innen_01.jpg "Terrasse")
+![Zuckmayer Stube](../images/Alpenblick_Innen_01.jpg "Zuckmayer Stube")
 
-![Terrasse](../images/Alpenblick_Innen_02.jpg "Terrasse")
+![Zuckmayer Stube](../images/Alpenblick_Innen_02.jpg "Zuckmayer Stube")
+
+![Zuckmayer Stube](../images/Alpenblick_Innen_03.jpg "Zuckmayer Stube")
 
 ### En guete
 
