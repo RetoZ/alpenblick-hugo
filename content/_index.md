@@ -7,7 +7,7 @@ menu:
 <!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_SW.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 ---
-<strong>Aus familiären Gründen bleibt der Alpenblick am Freitag, 11. Oktober 2019 geschlossen.
+<strong>Das Restaurant Alpenblick ist vom Montag, 28. Oktober bis und mit Dienstag, 10.&nbsp;Dezember 2019 geschlossen.
 
 ---
 </strong>
