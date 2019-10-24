@@ -21,16 +21,16 @@ menu:
 
 ![Ansicht](../images/Alpenblick_Ansicht_05.jpg "Ansicht")
 
-![Ansicht](../images/Alpenblick_Ansicht_06.jpg "Ansicht")
-
-![Ansicht](../images/Alpenblick_Ansicht_07.jpg "Ansicht")
+![Ansicht](../images/Alpenblick_Ansicht_13.jpg "Ansicht")
 
 ### Zuckmayer Stube
-![Zuckmayer Stube](../images/Alpenblick_Innen_01.jpg "Zuckmayer Stube")
+![Zuckmayer Stube](../images/Alpenblick_Innen_04.jpg "Zuckmayer Stube")
 
-![Zuckmayer Stube](../images/Alpenblick_Innen_02.jpg "Zuckmayer Stube")
+![Zuckmayer Stube](../images/Alpenblick_Innen_05.jpg "Zuckmayer Stube")
 
-![Zuckmayer Stube](../images/Alpenblick_Innen_03.jpg "Zuckmayer Stube")
+![Zuckmayer Stube](../images/Alpenblick_Innen_06.jpg "Zuckmayer Stube")
+
+![Zuckmayer Stube](../images/Alpenblick_Innen_07.jpg "Zuckmayer Stube")
 
 ### En guete
 
@@ -51,13 +51,13 @@ menu:
 {{% /two-columns %}}
 
 ### Aussicht Winter
-![Allalinhorn](../images/Allalinhorn_01.jpg "Allalinhorn")
+![Allalinhorn](../images/Alpenblick_Aussicht_01_Allalinhorn.jpg "Allalinhorn")
 
-![Allalinhorn](../images/Allalinhorn_02.jpg "Allalinhorn")
+![Allalinhorn](../images/Alpenblick_Aussicht_02_Allalinhorn.jpg "Allalinhorn")
 
-![Allalinhorn und Alphubel](../images/Alpenblick_Allalinhorn_und_Alphubel.jpg "Allalinhorn und Alphubel")
+![Allalinhorn und Alphubel](../images/Alpenblick_Aussicht_03_Allalinhorn_und_Alphubel.jpg "Allalinhorn und Alphubel")
 
-![Dom](../images/Alpenblick_Dom.jpg "Dom")
+![Dom](../images/Alpenblick_Aussicht_04_Dom.jpg "Dom")
 
 ### Umbau 2019
 ![Umbau](../images/Alpenblick_Umbau_03.jpg "Umbau")
@@ -74,4 +74,4 @@ menu:
 {{% /two-columns %}}
 
 ### Ansicht bis 2019
-![Restaurant Alpenblick Saas-Fee](../images/Restaurant_Alpenblick_Saas_Fee.jpg "Restaurant Alpenblick Saas-Fee")
+![Ansicht](../images/Alpenblick_Ansicht_00.jpg "Ansicht")
