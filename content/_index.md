@@ -4,7 +4,11 @@ menu:
   main:
     weight: 1
 ---
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_SW.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_SW_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+
+---
+<strong>NOCH KEIN WEIHNACHTSGESCHENK?
+<br>Alpenblick Gutschein via <a href="mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung" target="_top">E-Mail</a> bestellen!
 
 ---
 <strong>Das Restaurant Alpenblick ist vom Montag, 28. Oktober bis und mit Dienstag, 10.&nbsp;Dezember 2019 geschlossen.
