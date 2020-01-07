@@ -5,6 +5,10 @@ menu:
     weight: 3
 ---
 ### Ansicht
+![Ansicht](../images/Alpenblick_Ansicht_15.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_14.jpg "Ansicht")
+
 ![Ansicht](../images/Alpenblick_Ansicht_10.jpg "Ansicht")
 
 ![Ansicht](../images/Alpenblick_Ansicht_09.jpg "Ansicht")
@@ -24,6 +28,8 @@ menu:
 ![Ansicht](../images/Alpenblick_Ansicht_13.jpg "Ansicht")
 
 ### Zuckmayer Stube
+![Zuckmayer Stube](../images/Alpenblick_Innen_08.jpg "Zuckmayer Stube")
+
 ![Zuckmayer Stube](../images/Alpenblick_Innen_04.jpg "Zuckmayer Stube")
 
 ![Zuckmayer Stube](../images/Alpenblick_Innen_05.jpg "Zuckmayer Stube")
