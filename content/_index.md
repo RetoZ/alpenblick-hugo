@@ -4,10 +4,10 @@ menu:
   main:
     weight: 1
 ---
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_FBG_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Aussicht_02_Allalinhorn.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
 ... in unserer ersten Wintersaison! Geniessen Sie unsere wunderschöne Terrasse mit herrlicher Aussicht auf die winterliche Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
