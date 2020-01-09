@@ -9,7 +9,9 @@ menu:
 # Herzlich Willkommen ...
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
-... in unserer ersten Wintersaison! Geniessen Sie unsere wunderschöne Terrasse mit herrlicher Aussicht auf die winterliche Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
+Geniessen Sie unser neu renoviertes Bergrestaurant im Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Walds und auf halbem Weg zwischen Hannig und Saas-Fee. 
+
+Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube wird Ihnen gefallen. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
 _Petra & Adi_
 
