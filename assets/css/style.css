@@ -4,15 +4,15 @@
   display: flex;
 }
 
-.two-column > * {
+.two-column>* {
   flex-basis: 50%;
 }
 
-.two-column > :first-child {
+.two-column> :first-child {
   padding-right: 15px;
 }
 
-.two-column > :last-child {
+.two-column> :last-child {
   padding-left: 15px;
 }
 
@@ -39,13 +39,21 @@ img {
   margin-bottom: 25px;
 }
 
+/* styling H2 */
+h2 {
+  font-family: Lato, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 60px;
+}
+
 /* spacing before H2 */
 article.post.page {
   margin-top: 0;
 }
 
 h2.post-title {
-  margin-top: 0;
+  margin-top: 0px;
 }
 
 /* styling H3 */
@@ -61,7 +69,8 @@ h3:first-child {
 }
 
 /* styling unordered/ordered lists (ul und ol) */
-ul, ol {
+ul,
+ol {
   margin-top: 0;
   padding-left: 0;
   list-style-position: inside;

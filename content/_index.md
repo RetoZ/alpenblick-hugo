@@ -15,7 +15,22 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 
 _Petra & Adi_
 
-#  
+## Aktuelle Anlässe
+* JEDEN DONNERSTAG: <a href="images/Alpenblick_Flyer_Schneeschuhtour_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Geführte Alpenblick Schneeschuhtour</a>
+* Sonntag, 09.02.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Montag, 09.03.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 08.04.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+
+## Auf Geschenksuche?
+Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen!
+
+## Hat es dir/euch gefallen bei uns?
+Danke für deine Bewertung:<br>
+<a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz"></a>
+
+
+
+<!-- #  
 ---
 <strong>Auf Geschenksuche?</strong>
 Jetzt Alpenblick Gutschein via <a href="mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung" target="_top">E-Mail</a> bestellen!
@@ -27,7 +42,8 @@ Danke für deine Bewertung:
 <a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz" border="0"></a>
 
 # 
----
+--- -->
+
 
 
 <!-- # Herzlich Willkommen ...
@@ -38,6 +54,7 @@ Danke für deine Bewertung:
 Wir freuen uns auf Ihren Besuch.
 
 _Petra & Adi_ -->
+
 
 
 <!-- # Herzlichen Dank ...

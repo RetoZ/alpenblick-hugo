@@ -34,6 +34,8 @@ menu:
 ### Zuckmayer Stube
 ![Zuckmayer Stube](../images/Alpenblick_Innen_08.jpg "Zuckmayer Stube")
 
+![Zuckmayer Stube](../images/Alpenblick_Innen_09.jpg "Zuckmayer Stube")
+
 ![Zuckmayer Stube](../images/Alpenblick_Innen_04.jpg "Zuckmayer Stube")
 
 ![Zuckmayer Stube](../images/Alpenblick_Innen_05.jpg "Zuckmayer Stube")
