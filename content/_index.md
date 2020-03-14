@@ -15,10 +15,11 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 
 _Petra & Adi_
 
+## Restaurant Alpenblick bleibt weiterhin geöffnet!
+Auch aufgrund der aktuellen Coronavirus-Lage werden wir Sie sicher bis Sonntag, 22. März 2020 weiterhin verwöhnen. Anschliessend werden wir die Lage neu beurteilen und entsprechend informieren. Bleiben Sie gesund!
+
 ## Aktuelle Anlässe
 * JEDEN DONNERSTAG: <a href="images/Alpenblick_Flyer_Schneeschuhtour_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Geführte Alpenblick Schneeschuhtour</a>
-* Sonntag, 09.02.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Montag, 09.03.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 08.04.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche?
