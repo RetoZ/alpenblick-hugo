@@ -6,7 +6,11 @@ menu:
 ---
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-# Herzlich Willkommen ...
+# Restaurant Alpenblick bis auf Weiteres geschlossen!
+Aufgrund der aktuellen Coronavirus-Lage bleibt der Alpenblick vorerst geschlossen. Wir freuen uns, Sie so bald wie möglich wieder verwöhnen zu dürfen. Bis dahin Kopf hoch und bleiben Sie gesund!
+
+## Herzlich Willkommen ...
+<!-- # Herzlich Willkommen ... -->
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
 Geniessen Sie unser neu renoviertes Bergrestaurant im Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Walds und auf halbem Weg zwischen Hannig und Saas-Fee. 
@@ -15,12 +19,10 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 
 _Petra & Adi_
 
-## Restaurant Alpenblick bleibt weiterhin geöffnet!
-Auch aufgrund der aktuellen Coronavirus-Lage werden wir Sie sicher bis Sonntag, 22. März 2020 weiterhin verwöhnen. Anschliessend werden wir die Lage neu beurteilen und entsprechend informieren. Bleiben Sie gesund!
-
+<!-- #  
 ## Aktuelle Anlässe
 * JEDEN DONNERSTAG: <a href="images/Alpenblick_Flyer_Schneeschuhtour_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Geführte Alpenblick Schneeschuhtour</a>
-* Mittwoch, 08.04.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 08.04.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
 ## Auf Geschenksuche?
 Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen!
