@@ -13,7 +13,7 @@ Aufgrund der aktuellen Coronavirus-Lage bleibt der Alpenblick vorerst geschlosse
 <!-- # Herzlich Willkommen ... -->
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
-Geniessen Sie unser neu renoviertes Bergrestaurant im Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Walds und auf halbem Weg zwischen Hannig und Saas-Fee. 
+Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
 
 Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube wird Ihnen gefallen. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
@@ -31,7 +31,7 @@ Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subjec
 Danke für deine Bewertung:<br>
 <a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz"></a>
 
-
+<a href="https://www.saas-fee.ch/" target="_blank" alt="Saas-Fee" title="Saas-Fee"><img src="images/Saas-Fee_Logo_Rot_RGB.svg" alt="Saas-Fee" class="logo"></a>
 
 <!-- #  
 ---
