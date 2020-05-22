@@ -6,12 +6,12 @@ menu:
 ---
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-# Restaurant Alpenblick bis auf Weiteres geschlossen!
-Aufgrund der aktuellen Coronavirus-Lage bleibt der Alpenblick vorerst geschlossen. Wir freuen uns, Sie so bald wie möglich wieder verwöhnen zu dürfen. Bis dahin Kopf hoch und bleiben Sie gesund!
+# Restaurant Alpenblick ab Donnerstag, 18. Juni 2020 wieder geöffnet!
+Das Warten hat ein Ende. Wir freuen uns riesig darauf, Sie bald wieder verwöhnen zu dürfen. Bis dahin Kopf hoch und bleiben Sie gesund!
 
 ## Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_10.jpg "Alpenblick")
 
 Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
 
