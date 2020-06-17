@@ -6,10 +6,7 @@ menu:
 ---
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-# Restaurant Alpenblick ab Donnerstag, 18. Juni 2020 wieder geöffnet!
-Das Warten hat ein Ende. Wir freuen uns riesig darauf, Sie bald wieder verwöhnen zu dürfen. Bis dahin Kopf hoch und bleiben Sie gesund!
-
-## Herzlich Willkommen ...
+# Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
 ![Alpenblick](images/Alpenblick_Ansicht_10.jpg "Alpenblick")
 
@@ -18,34 +15,24 @@ Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwanderge
 Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube wird Ihnen gefallen. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
 _Petra & Adi_
-
-<!-- #  
+  
 ## Aktuelle Anlässe
-* JEDEN DONNERSTAG: <a href="images/Alpenblick_Flyer_Schneeschuhtour_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Geführte Alpenblick Schneeschuhtour</a>
-* Mittwoch, 08.04.20: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_A5_hoch_NEUTRAL_INFOS.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+* Sonntag, 5. Juli 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Samstag, 1. August 2020: <a href="images/Alpenblick_Flyer_1_August_2020.jpg" target="_blank"> Schweizer Nationalfeiertag</a>
 
 ## Auf Geschenksuche?
 Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen!
+
+## Instagram Foto Wettbewerb
+<a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
 ## Hat es dir/euch gefallen bei uns?
 Danke für deine Bewertung:<br>
 <a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz"></a>
 
+<br>
+
 <a href="https://www.saas-fee.ch/" target="_blank" alt="Saas-Fee" title="Saas-Fee"><img src="images/Saas-Fee_Logo_Rot_RGB.svg" alt="Saas-Fee" class="logo"></a>
-
-<!-- #  
----
-<strong>Auf Geschenksuche?</strong>
-Jetzt Alpenblick Gutschein via <a href="mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung" target="_top">E-Mail</a> bestellen!
-
-# 
----
-<strong>Hat es dir/euch gefallen bei uns?</strong>
-Danke für deine Bewertung:
-<a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz" border="0"></a>
-
-# 
---- -->
 
 
 
