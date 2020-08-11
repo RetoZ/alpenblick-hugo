@@ -17,11 +17,8 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 _Petra & Adi_
   
 ## Aktuelle Anlässe
-* Samstag, 1. August 2020: <a href="images/Alpenblick_Flyer_1_August_2020.jpg" target="_blank"> Schweizer Nationalfeiertag</a>
-* Sonntag, 3. August 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Samstag, 8. August 2020: <a href="images/Alpenblick_Flyer_Ziegenfest_2020.jpg" target="_blank"> Ziegenfest 2020</a>
-* Sonntag, 2. September 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 1. Oktober 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 2. September 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Donnerstag, 1. Oktober 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche?
 Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen!
