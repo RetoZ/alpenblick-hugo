@@ -26,6 +26,12 @@ Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subjec
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
+* Siegerfoto Juli 2020: <a href="images/Alpenblick_alpenblickwinkel_20_07_misakj_kagesakj.png" target="_blank"> misakj_kagesakj</a>
+
+## Wallis Werbeaktion – 100-Franken-Gutschein
+Wir machen mit! <a href="https://www.valais.ch/de/info/landingpage/100-franken-gutschein" target="_blank"> Profitiert</a> jetzt auch bei uns:
+<a href="https://www.valais.ch/de/info/landingpage/100-franken-gutschein" target="_blank" alt="Wallis Werbeaktion" title="Wallis Werbeaktion"><img src="images/Alpenblick_Wallis_Werbeaktion_100_Franken_Gutschein.jpg" alt="Wallis Werbeaktion"></a>
+
 ## Hat es dir/euch gefallen bei uns?
 Danke für deine Bewertung:<br>
 <a href="https://www.suissegourmet.ch/saas-fee/restaurant-alpenblick/" target="_blank" alt="Die besten Restaurants in Schweiz" title="Die besten Restaurants in Schweiz"><img src="https://www.suissegourmet.ch/gourmetbutton/stempel.php?rid=72573" alt="Die besten Restaurants in Schweiz"></a>
