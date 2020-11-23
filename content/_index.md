@@ -17,7 +17,7 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 _Petra & Adi_
   
 ## Wintersaison 2020 / 2021
-Wir freuen uns, Sie bis und mit Sonntag, 25. Oktober 2020 begrüssen zu dürfen. Nach der Zwischensaison sind wir ab Freitag, 11. Dezember 2020 bereit, mit Ihnen unsere nächste Wintersaison zu geniessen!
+Wir freuen uns, Sie nach der Zwischensaison voraussichtlich ab Mittwoch, 16. Dezember 2020 wieder begrüssen zu dürfen und mit Ihnen unsere nächste Wintersaison zu geniessen!
 
 ## Aktuelle Anlässe
 * Mittwoch, 30. Dezember 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
