@@ -20,6 +20,7 @@ _Petra & Adi_
 Wir freuen uns, Sie nach der Zwischensaison voraussichtlich ab Mittwoch, 16. Dezember 2020 wieder begrüssen zu dürfen und mit Ihnen unsere nächste Wintersaison zu geniessen!
 
 ## Aktuelle Anlässe
+* Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Mittwoch, 30. Dezember 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Donnerstag, 28. Januar 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 27. Februar 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
