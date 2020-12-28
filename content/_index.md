@@ -6,7 +6,10 @@ menu:
 ---
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-# Herzlich Willkommen ...
+# Wintersaison 2020 / 2021 – Take-away
+Wir freuen uns, Sie ab Montag, 28. Dezember 2020 bis Sonntag, 3. Januar 2021 jeweils zwischen 11 und 15 Uhr mit einem reduzierten Take-away-Angebot verwöhnen zu können.
+
+## Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
@@ -16,9 +19,6 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 
 _Petra & Adi_
   
-## Wintersaison 2020 / 2021
-Wir freuen uns, Sie nach der Zwischensaison voraussichtlich ab Mittwoch, 16. Dezember 2020 wieder begrüssen zu dürfen und mit Ihnen unsere nächste Wintersaison zu geniessen!
-
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Mittwoch, 30. Dezember 2020: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
