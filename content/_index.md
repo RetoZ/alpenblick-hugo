@@ -4,13 +4,13 @@ menu:
   main:
     weight: 1
 ---
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
 <!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 # Wintersaison 2020 / 2021 – Take-away
-Wir freuen uns, Sie an den Wochenenden vom 15.–17. und vom 22.–24. Januar vom Freitag bis Sonntag zwischen 11 und 15 Uhr mit unserem Take-away-Angebot verwöhnen zu können.<br>
-Ab Freitag, 29. Januar bis Ende Februar bieten wir unser Take-away täglich an.
+Wir freuen uns, Sie an den Wochenenden vom 15.–17. und vom 22.–24. Januar vom Freitag bis Sonntag zwischen 11 und 15 Uhr mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.<br>
+Ab Freitag, 29. Januar bis Ende Februar bieten wir unser <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away</a> täglich an.
 
 ## Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
@@ -22,7 +22,7 @@ Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft 
 
 _Petra & Adi_
   
-## Aktuelle Anlässe
+## Aktuelle Anlässe (sobald wieder möglich)
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Donnerstag, 28. Januar 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 27. Februar 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
