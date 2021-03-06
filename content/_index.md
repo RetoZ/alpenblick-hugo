@@ -9,7 +9,7 @@ menu:
 <!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 # Wintersaison 2020 / 2021 – Take-away
-Wir freuen uns, Sie ab Freitag, 29. Januar bis Ende Februar (ausser dienstags) täglich zwischen 11 und 15 Uhr mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.
+Wir freuen uns, Sie bis und mit Sonntag, 21. März täglich (ausser dienstags) zwischen 11 und 15 Uhr mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.
 
 ## Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
@@ -23,7 +23,6 @@ _Petra & Adi_
   
 ## Aktuelle Anlässe (sobald wieder möglich)
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 27. Februar 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche?
@@ -32,8 +31,7 @@ Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subjec
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* November 2020: Keine Teilnahmen
-* Oktober 2020: Keine Teilnahmen
+* Oktober 2020 bis Februar 2021: Keine Teilnahmen
 * Siegerfoto September 2020: <a href="images/Alpenblick_alpenblickwinkel_20_09_hosch_daniel.png" target="_blank"> hosch.daniel</a>
 * Siegerfoto August 2020: <a href="images/Alpenblick_alpenblickwinkel_20_08_aerdna_nietsttew.png" target="_blank"> aerdna.nietsttew</a>
 * Siegerfoto Juli 2020: <a href="images/Alpenblick_alpenblickwinkel_20_07_misakj_kagesakj.png" target="_blank"> misakj_kagesakj</a>
