@@ -8,10 +8,23 @@ menu:
 
 <!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
-# Wintersaison 2020 / 2021 – Take-away
+<!-- ---
+Normaler Text zwischen Linien<br>
+**Fetter Text zwischen Linien**
+
+--- -->
+
+---
+**Wintersaison 2020 / 2021 – Take-away**<br>
 Wir freuen uns, Sie bis und mit Sonntag, 21. März täglich (ausser dienstags) zwischen 11 und 15 Uhr mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.
 
-## Herzlich Willkommen ...
+**Ein Satz heisse Ohren zu Ostern?**<br>
+Unsere super bequemen <a href="images/Alpenblick_Stirnband.jpg" target="_blank">Alpenblick Bio Baumwoll Stirnbänder</a> sind eingetroffen!
+
+---
+<br>
+
+# Herzlich Willkommen ...
 <!-- # Herzlich Willkommen ... -->
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 
@@ -23,11 +36,11 @@ _Petra & Adi_
   
 ## Aktuelle Anlässe (sobald wieder möglich)
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+<!-- * Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
 ## Auf Geschenksuche?
 * Jetzt einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen! 
-* Oder warum nicht einen Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">warme Ohren</a> verschenken?
+* Oder warum nicht ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verschenken?
 
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
