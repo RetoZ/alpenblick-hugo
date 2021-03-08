@@ -26,7 +26,8 @@ _Petra & Adi_
 * Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche?
-Jetzt Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen!
+* Jetzt einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen! 
+* Oder warum nicht einen Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">warme Ohren</a> verschenken?
 
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
