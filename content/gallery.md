@@ -4,19 +4,22 @@ menu:
   main:
     weight: 3
 ---
-### Übernachten ...
+### Übernachten 2021
 ![Übernachten](../images/Alpenblick_Uebernachten_01.jpg "Übernachten")
 
 ![Übernachten](../images/Alpenblick_Uebernachten_02.jpg "Übernachten")
 
-### Abends ...
-![Abends](../images/Alpenblick_Abends_01.jpg "Abends")
+### Aussicht 2021
+![Aussicht](../images/Alpenblick_Aussicht_Panorama.jpg "Aussicht")
 
-![Abends](../images/Alpenblick_Abends_02.jpg "Abends")
+![Aussicht](../images/Alpenblick_Abends_01.jpg "Aussicht")
 
-![Abends](../images/Alpenblick_Abends_03.jpg "Abends")
+![Aussicht](../images/Alpenblick_Abends_02.jpg "Aussicht")
 
-### Gäste Impressionen
+### Ansicht 2021
+![Ansicht](../images/Alpenblick_Abends_03.jpg "Ansicht")
+
+### Gäste Impressionen 2020
 ![Gäste Impressionen](../images/Alpenblick_Gaeste_2020_01.jpg "Gäste Impressionen")
 
 ![Gäste Impressionen](../images/Alpenblick_Gaeste_2020_02.jpg "Gäste Impressionen")
@@ -31,7 +34,6 @@ menu:
 
 ![Gäste Impressionen](../images/Alpenblick_Gaeste_2020_07.jpg "Gäste Impressionen")
 
-### Ansicht
 ![Ansicht](../images/Alpenblick_Ansicht_16.jpg "Ansicht")
 
 ![Ansicht](../images/Alpenblick_Ansicht_17.jpg "Ansicht")
@@ -58,7 +60,7 @@ menu:
 
 ![Ansicht](../images/Alpenblick_Ansicht_13.jpg "Ansicht")
 
-### Zuckmayer Stube
+### Zuckmayer Stube 2020
 ![Zuckmayer Stube](../images/Alpenblick_Innen_08.jpg "Zuckmayer Stube")
 
 ![Zuckmayer Stube](../images/Alpenblick_Innen_09.jpg "Zuckmayer Stube")
@@ -71,7 +73,7 @@ menu:
 
 ![Zuckmayer Stube](../images/Alpenblick_Innen_07.jpg "Zuckmayer Stube")
 
-### En guete
+### En guete 2020
 
 {{% two-columns %}}
 {{% column %}}
@@ -89,7 +91,7 @@ menu:
 {{% /column %}}
 {{% /two-columns %}}
 
-### Aussicht Winter
+### Aussicht Winter 2020
 ![Allalinhorn](../images/Alpenblick_Aussicht_01_Allalinhorn.jpg "Allalinhorn")
 
 ![Allalinhorn](../images/Alpenblick_Aussicht_02_Allalinhorn.jpg "Allalinhorn")

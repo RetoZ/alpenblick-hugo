@@ -21,6 +21,9 @@ Wir freuen uns, Sie bis und mit Sonntag, 21. März täglich (ausser dienstags) z
 **Ein Satz heisse Ohren zu Ostern?**<br>
 Unsere super bequemen <a href="images/Alpenblick_Stirnband.jpg" target="_blank">Alpenblick Bio Baumwoll Stirnbänder</a> sind eingetroffen!
 
+**Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
+Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> (bis 10 Personen) ist schlafbereit!
+
 ---
 <br>
 
@@ -38,9 +41,10 @@ _Petra & Adi_
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 <!-- * Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
-## Auf Geschenksuche?
-* Jetzt einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen! 
-* Oder warum nicht ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verschenken?
+## Auf Geschenksuche? Warum nicht ...
+* ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
+* ... ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verteilen?
+* ... eine <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Mütze Schlaf</a> verschenken?
 
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
