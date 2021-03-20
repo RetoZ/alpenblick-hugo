@@ -16,7 +16,7 @@ Normaler Text zwischen Linien<br>
 
 ---
 **Wintersaison 2020 / 2021 – Take-away**<br>
-Wir freuen uns, Sie bis und mit Sonntag, 21. März täglich (ausser dienstags) zwischen 11 und 15 Uhr mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. Anschliessend hoffen wir natürlich, mindestens unsere Sonnenterrasse wieder in Betrieb nehmen zu dürfen!
+Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.
 
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
 Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> (bis 10 Personen) ist schlafbereit!
