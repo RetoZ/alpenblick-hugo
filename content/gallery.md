@@ -4,6 +4,9 @@ menu:
   main:
     weight: 3
 ---
+<!-- ### Gäste Impressionen 2020
+![Gäste Impressionen](../images/Alpenblick_Ansicht_Take-away.jpg "Gäste Impressionen") -->
+
 ### Übernachten 2021
 ![Übernachten](../images/Alpenblick_Uebernachten_01.jpg "Übernachten")
 

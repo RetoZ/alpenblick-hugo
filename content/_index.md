@@ -4,6 +4,8 @@ menu:
   main:
     weight: 1
 ---
+<!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
+
 {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
 <!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
@@ -31,8 +33,8 @@ Unsere super bequemen <a href="images/Alpenblick_Stirnband.jpg" target="_blank">
 <br>
 
 # Herzlich Willkommen ...
-<!-- # Herzlich Willkommen ... -->
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+<!-- ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -->
+![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick")
 
 Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
 
