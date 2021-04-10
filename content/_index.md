@@ -23,12 +23,6 @@ Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser d
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
 Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> (bis 10 Personen) ist schlafbereit!
 
-**Ein Satz heisse Ohren zu Ostern?**<br>
-Unsere super bequemen <a href="images/Alpenblick_Stirnband.jpg" target="_blank">Alpenblick Bio Baumwoll Stirnbänder</a> sind eingetroffen!
-
-**Apropos, ...**<br>
-... am Ostersonntag, 4. April 2021 wird der Osterhase rund um den Alpenblick drei Osternester verstecken. Viel Glück bei der Suche ;)
-
 ---
 <br>
 
@@ -50,11 +44,12 @@ _Petra & Adi_
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
 * ... ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verteilen?
 * ... eine <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Mütze Schlaf</a> verschenken?
+* ... einen <a href="images/Alpenblick_Postkarten.jpg" target="_blank">Postkartengruss</a> versenden?
 
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* Oktober 2020 bis Februar 2021: Keine Teilnahmen
+* Oktober 2020 bis März 2021: Keine Teilnahmen
 * Siegerfoto September 2020: <a href="images/Alpenblick_alpenblickwinkel_20_09_hosch_daniel.png" target="_blank"> hosch.daniel</a>
 * Siegerfoto August 2020: <a href="images/Alpenblick_alpenblickwinkel_20_08_aerdna_nietsttew.png" target="_blank"> aerdna.nietsttew</a>
 * Siegerfoto Juli 2020: <a href="images/Alpenblick_alpenblickwinkel_20_07_misakj_kagesakj.png" target="_blank"> misakj_kagesakj</a>

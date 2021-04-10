@@ -20,6 +20,9 @@ menu:
 ![Aussicht](../images/Alpenblick_Abends_02.jpg "Aussicht")
 
 ### Ansicht 2021
+![Ansicht](../images/Alpenblick_Ansicht_Heli.jpg "Ansicht")
+Bild von Martin Mägli, <a href="https://naturbild.ch/" target="_blank"> www.naturbild.ch</a>
+
 ![Ansicht](../images/Alpenblick_Abends_03.jpg "Ansicht")
 
 ### Gäste Impressionen 2020
