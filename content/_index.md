@@ -17,8 +17,11 @@ Normaler Text zwischen Linien<br>
 --- -->
 
 ---
-**Wintersaison 2020 / 2021 – Take-away**<br>
-Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können.
+**Sommersaison 2021**<br>
+Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 11. Juni 2021**, bei schönem Wetter sogar schon ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+
+<!-- **Wintersaison 2020 / 2021 – Take-away**<br>
+Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
 
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
 Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> (bis 10 Personen) ist schlafbereit!
@@ -27,8 +30,9 @@ Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg
 <br>
 
 # Herzlich Willkommen ...
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
 <!-- ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -->
-![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick")
+<!-- ![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick") -->
 
 Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
 
@@ -38,7 +42,11 @@ _Petra & Adi_
   
 ## Aktuelle Anlässe (sobald wieder möglich)
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-<!-- * Sonntag, 28. März 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2020_21_Winter.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+* Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche? Warum nicht ...
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
@@ -67,21 +75,3 @@ Danke für deine Bewertung:<br>
 <a href="https://www.saas-fee.ch/" target="_blank" alt="Saas-Fee" title="Saas-Fee"><img src="images/Saas-Fee_Logo_Rot_RGB.svg" alt="Saas-Fee" class="logo"></a>
 
 
-
-<!-- # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
-
-... im neu umgebauten Restaurant Alpenblick! Geniessen Sie unsere wunderschöne Terrasse mit herrlicher Aussicht und das rustikale Interieur unserer Zuckmayer Stube. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
-
-Wir freuen uns auf Ihren Besuch.
-
-_Petra & Adi_ -->
-
-
-
-<!-- # Herzlichen Dank ...
-![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
-
-... für den gelungenen Start in unsere erste Alpenblick Saison. Wir freuen uns jetzt schon, euch im Winter wieder begrüssen zu dürfen.
-
-_Petra & Adi_ -->
