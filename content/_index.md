@@ -18,7 +18,7 @@ Normaler Text zwischen Linien<br>
 
 ---
 **Sommersaison 2021**<br>
-Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 11. Juni 2021**, bei schönem Wetter sogar schon ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
 <!-- **Wintersaison 2020 / 2021 – Take-away**<br>
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
@@ -39,14 +39,20 @@ Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwanderge
 Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube wird Ihnen gefallen. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
 _Petra & Adi_
-  
-## Aktuelle Anlässe (sobald wieder möglich)
+
+## Essen & Trinken
+* Unsere Menükarte in <a href="images/Alpenblick_Menukarte_QR_Code_DE.pdf" target="_blank">Deutsch</a>
+* Notre menu en <a href="images/Alpenblick_Menukarte_QR_Code_FR.pdf" target="_blank">français</a>
+* Our menu in <a href="images/Alpenblick_Menukarte_QR_Code_EN.pdf" target="_blank">english</a>
+
+## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch_2021_Sommer.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 8. August 2021: Ziegenfest Sass-Fee (Genaue Informationen folgen)
+* Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche? Warum nicht ...
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
@@ -57,7 +63,7 @@ _Petra & Adi_
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* Oktober 2020 bis März 2021: Keine Teilnahmen
+* Oktober 2020 bis Mai 2021: Keine Teilnahmen
 * Siegerfoto September 2020: <a href="images/Alpenblick_alpenblickwinkel_20_09_hosch_daniel.png" target="_blank"> hosch.daniel</a>
 * Siegerfoto August 2020: <a href="images/Alpenblick_alpenblickwinkel_20_08_aerdna_nietsttew.png" target="_blank"> aerdna.nietsttew</a>
 * Siegerfoto Juli 2020: <a href="images/Alpenblick_alpenblickwinkel_20_07_misakj_kagesakj.png" target="_blank"> misakj_kagesakj</a>
