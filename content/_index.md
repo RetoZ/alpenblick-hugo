@@ -17,14 +17,14 @@ Normaler Text zwischen Linien<br>
 --- -->
 
 ---
-**Sommersaison 2021**<br>
+<!-- **Sommersaison 2021**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
-<!-- **Wintersaison 2020 / 2021 – Take-away**<br>
+**Wintersaison 2020 / 2021 – Take-away**<br>
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
 
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
-Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> (bis 10 Personen) ist schlafbereit!
+Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen von mind. 6 und max. 10 Personen) ist schlafbereit!
 
 ---
 <br>
@@ -49,6 +49,7 @@ _Petra & Adi_
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a>
 * Sonntag, 8. August 2021: Ziegenfest Sass-Fee (Genaue Informationen folgen)
 * Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
