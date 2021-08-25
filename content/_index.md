@@ -47,11 +47,11 @@ _Petra & Adi_
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a>
-* Sonntag, 8. August 2021: Ziegenfest Sass-Fee (Genaue Informationen folgen)
-* Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+<!-- * Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
+<!-- * Sonntag, 8. August 2021: Ziegenfest Sass-Fee (Genaue Informationen folgen) -->
+<!-- * Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 * Dienstag, 7. bis Samstag, 11. September 2021: <a href="https://www.saas-fee.ch/de/heartbeat-festival" target="_blank"> Saas Fee Heartbeat Festival</a>
 * Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
@@ -61,6 +61,8 @@ _Petra & Adi_
 * ... ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verteilen?
 * ... eine <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Mütze Schlaf</a> verschenken?
 * ... einen <a href="images/Alpenblick_Postkarten.jpg" target="_blank">Postkartengruss</a> versenden?
+* ... ein bisschen <a href="images/Alpenblick_Flyer_Verfeinern_2021.jpg" target="_blank">Würze</a> reinbringen?
+
 
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
