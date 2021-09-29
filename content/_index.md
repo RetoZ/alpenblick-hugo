@@ -47,14 +47,16 @@ _Petra & Adi_
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-<!-- * Donnerstag, 24. Juni 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
-<!-- * Samstag, 24. Juli 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 <!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
-<!-- * Sonntag, 8. August 2021: Ziegenfest Sass-Fee (Genaue Informationen folgen) -->
-<!-- * Sonntag, 22. August 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
-* Dienstag, 7. bis Samstag, 11. September 2021: <a href="https://www.saas-fee.ch/de/heartbeat-festival" target="_blank"> Saas Fee Heartbeat Festival</a>
 * Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 24. Oktober 2021: Ende Sommersaison 2021
+* Mittwoch, 15. Dezember 2021: Start Wintersaison 2021 / 2022
+* Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 16. Februar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Freitag, 18. März 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Samstag, 16. April 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 ## Auf Geschenksuche? Warum nicht ...
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
