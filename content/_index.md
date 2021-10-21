@@ -17,6 +17,11 @@ Normaler Text zwischen Linien<br>
 --- -->
 
 ---
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommersaison. Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
+<br>
+<br>
+
 <!-- **Sommersaison 2021**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
@@ -50,8 +55,6 @@ _Petra & Adi_
 <!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 * Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 24. Oktober 2021: Ende Sommersaison 2021
-* Mittwoch, 15. Dezember 2021: Start Wintersaison 2021 / 2022
 * Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 16. Februar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
