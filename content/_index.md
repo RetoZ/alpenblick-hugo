@@ -6,9 +6,11 @@ menu:
 ---
 <!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
 
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
+<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 <!-- ---
 Normaler Text zwischen Linien<br>
@@ -18,12 +20,14 @@ Normaler Text zwischen Linien<br>
 
 ---
 **Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommersaison. Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
+Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
 <br>
 <br>
 
 <!-- **Sommersaison 2021**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+
+Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommersaison. Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
 
 **Wintersaison 2020 / 2021 – Take-away**<br>
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
@@ -35,9 +39,12 @@ Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg
 <br>
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
-<!-- ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -->
-<!-- ![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick") -->
+![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+<!-- 
+![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
+![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick")
+ -->
 
 Geniessen Sie unser neu renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
 
@@ -53,9 +60,8 @@ _Petra & Adi_
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 <!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
-* Montag, 20. September 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Mittwoch, 20. Oktober 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a>
 * Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Mittwoch, 16. Februar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Freitag, 18. März 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
