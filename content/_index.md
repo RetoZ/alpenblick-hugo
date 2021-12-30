@@ -20,7 +20,7 @@ Normaler Text zwischen Linien<br>
 
 ---
 **Saisonende und Start Wintersaison**<br>
-Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen! 
+Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
 <br>
 <br>
 
