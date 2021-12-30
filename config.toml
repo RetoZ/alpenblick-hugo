@@ -1,6 +1,6 @@
 baseurl = "https://www.alpenblick-saasfee.ch/"
 title = "Restaurant Alpenblick"
-theme = "arabica"
+theme = "arabicaAlpenblick"
 
 [params]
     titleSecondRow = "Saas-Fee"
