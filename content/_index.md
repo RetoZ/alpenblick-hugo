@@ -19,12 +19,12 @@ Normaler Text zwischen Linien<br>
 --- -->
 
 ---
-**Saisonende und Start Wintersaison**<br>
+<!-- **Saisonende und Start Wintersaison**<br>
 Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
 <br>
 <br>
 
-<!-- **Sommersaison 2021**<br>
+**Sommersaison 2021**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
 Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommersaison. Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
