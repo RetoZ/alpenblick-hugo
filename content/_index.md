@@ -33,7 +33,7 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommer
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
 
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
-Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen von mind. 6 und max. 10 Personen) ist schlafbereit! TEST TEST
+Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen von mind. 6 und max. 10 Personen) ist schlafbereit!
 
 ---
 <br>
