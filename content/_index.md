@@ -6,11 +6,9 @@ menu:
 ---
 <!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
 
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
-
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
+<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 <!-- ---
 Normaler Text zwischen Linien<br>
@@ -33,7 +31,7 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommer
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
 
 **Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
-Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen von mind. 6 und max. 10 Personen) ist schlafbereit!
+Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
 
 ---
 <br>
@@ -60,9 +58,9 @@ _Petra & Adi_
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 <!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
-* Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a>
-* Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+<!-- * Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
+<!-- * Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 * Mittwoch, 16. Februar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Freitag, 18. März 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 16. April 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
@@ -78,7 +76,8 @@ _Petra & Adi_
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* Siegerfoto Juni 2021: <a href="images/Alpenblick_alpenblickwinkel_21_07_udocasel.png" target="_blank"> udocasel</a>
+* August 2021 bis Dezember 2021: Keine Teilnahmen
+* Siegerfoto Juli 2021: <a href="images/Alpenblick_alpenblickwinkel_21_07_udocasel.png" target="_blank"> udocasel</a>
 * Siegerfoto Juni 2021: <a href="images/Alpenblick_alpenblickwinkel_21_06_frederika_w.png" target="_blank"> frederika.w</a>
 * Oktober 2020 bis Mai 2021: Keine Teilnahmen
 * Siegerfoto September 2020: <a href="images/Alpenblick_alpenblickwinkel_20_09_hosch_daniel.png" target="_blank"> hosch.daniel</a>
