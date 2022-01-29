@@ -9,3 +9,8 @@ theme = "arabicaAlpenblick"
     replaceGoogleFonts = "fonts.loli.net"
     footerCopyright = "Alpenblick Gastro GmbH"
     facebook = "saasfee.ch/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
