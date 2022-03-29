@@ -30,8 +30,10 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommer
 **Wintersaison 2020 / 2021 – Take-away**<br>
 Wir freuen uns, Sie bis und mit Saisonende Sonntag, 18. April täglich (ausser dienstags) zwischen 11 und 15 Uhr wenigstens mit unserem <a href="images/Alpenblick_Take-away_Menukarte_A4_hoch_DE.jpg" target="_blank"> Take-away-Angebot</a> verwöhnen zu können. -->
 
-**Essen | Trinken | Geniessen | ÜBERNACHTEN**<br>
-Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
+**Saisonende und Start Sommersaison 2022**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 24. April 2022** die Wintersaison. 
+
+Am **Freitag, 10. Juni 2022** (bei schönem Wetter bereits am **Freitag, 03. Juni 2022**) freuen wir uns, mit euch in die Sommersaison 2022 starten zu dürfen!
 
 ---
 <br>
@@ -55,15 +57,23 @@ _Petra & Adi_
 * Notre menu en <a href="images/Alpenblick_Menukarte_QR_Code_FR.pdf" target="_blank">français</a>
 * Our menu in <a href="images/Alpenblick_Menukarte_QR_Code_EN.pdf" target="_blank">english</a>
 
+## Übernachten
+Unser kleines aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
+
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-<!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
-<!-- * Sonntag, 19. Dezember 2021: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
-<!-- * Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
-<!-- * Montag, 17. Januar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
-* Mittwoch, 16. Februar 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Freitag, 18. März 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 16. April 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 17. April 2022: <a href="images/Alpenblick_Flyer_Ostern_2022.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
+* Montag, 13. Juni 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a>
+* Mittwoch, 13. Juli 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Freitag, 12. August 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch bis Sonntag, 07.-11. September 2022: <a href="https://heartbeat-festival.ch/" target="_blank"> Saas-Fee Heartbeat-Festival</a>
+* Samstag, 10. September 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 09. Oktober 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+<!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
+<!-- * Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 
 ## Auf Geschenksuche? Warum nicht ...
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
@@ -76,7 +86,7 @@ _Petra & Adi_
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* August 2021 bis Dezember 2021: Keine Teilnahmen
+* August 2021 bis März 2022: Keine Teilnahmen
 * Siegerfoto Juli 2021: <a href="images/Alpenblick_alpenblickwinkel_21_07_udocasel.png" target="_blank"> udocasel</a>
 * Siegerfoto Juni 2021: <a href="images/Alpenblick_alpenblickwinkel_21_06_frederika_w.png" target="_blank"> frederika.w</a>
 * Oktober 2020 bis Mai 2021: Keine Teilnahmen
