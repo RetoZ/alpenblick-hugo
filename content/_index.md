@@ -27,6 +27,9 @@ Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 
 **Sommersaison 2021**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Donnerstag, 03. Juni 2021 (Fronleichnam)** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
+**Start Sommersaison 2022**<br>
+Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 10. Juni 2022** (bei schönem Wetter bereits am **Freitag, 03. Juni 2022**) wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+
 Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommersaison. Am **Mittwoch, 15. Dezember 2021** freuen wir uns, mit euch in die Wintersaison 2021 / 22 starten zu dürfen!
 
 **Wintersaison 2020 / 2021 – Take-away**<br>
@@ -40,7 +43,7 @@ Am **Freitag, 10. Juni 2022** (bei schönem Wetter bereits am **Freitag, 03. Jun
 -->
 
 **Start Sommersaison 2022**<br>
-Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 10. Juni 2022** (bei schönem Wetter bereits am **Freitag, 03. Juni 2022**) wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 03. Juni 2022** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
 ---
 <br>
@@ -72,8 +75,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 16. April 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 17. April 2022: <a href="images/Alpenblick_Flyer_Ostern_2022.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 * Montag, 13. Juni 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a>
 * Mittwoch, 13. Juli 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
@@ -85,6 +86,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2021.jp
 <!-- * Sonntag, 1. August 2021: <a href="images/Alpenblick_Flyer_1_August_2021.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 <!-- * Samstag, 25. Dezember 2021: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 <!-- * Freitag, 18. März 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Sonntag, 17. April 2022: <a href="images/Alpenblick_Flyer_Ostern_2022.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 
 
 ## Auf Geschenksuche? Warum nicht ...
