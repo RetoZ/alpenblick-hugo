@@ -107,6 +107,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
+* Oktober und November 2022: Keine Teilnahmen
 * Siegerfoto September 2022: <a href="images/Alpenblick_alpenblickwinkel_22_09_wuerschtom.png" target="_blank"> Tom Würsch</a>
 * April 2022 bis August 2022: Keine Teilnahmen
 * Siegerfoto März 2022: <a href="images/Alpenblick_alpenblickwinkel_22_03_Andrea_Teufer.png" target="_blank"> Andrea Teufer</a>
