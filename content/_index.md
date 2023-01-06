@@ -6,9 +6,9 @@ menu:
 ---
 <!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
 
-<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 <!-- ---
 Normaler Text zwischen Linien<br>
@@ -16,14 +16,14 @@ Normaler Text zwischen Linien<br>
 
 --- -->
 
-<br>
+<!-- <br>
 
----
+--- -->
 
 <!-- **Früheres Saisonende wegen <a href="images/Alpenblick_Flyer_Umbau_2022.jpg" target="_blank"> Umbau</a> und Start Wintersaison 2022 / 23**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 25. September 2022** die Sommersaison.  -->
 
-Am **Donnerstag, 08. Dezember 2022** freuen wir uns, mit euch **und unserer neuen Küche** in die Wintersaison 2022 / 23 starten zu dürfen!
+<!-- Am **Donnerstag, 08. Dezember 2022** freuen wir uns, mit euch **und unserer neuen Küche** in die Wintersaison 2022 / 23 starten zu dürfen! -->
 
 <!--
 
@@ -52,8 +52,8 @@ Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 03. Juni 2022** w
 
 -->
 
----
-<br>
+<!-- ---
+<br> -->
 
 # Herzlich Willkommen ...
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
@@ -82,7 +82,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Donnerstag, 08. Dezember 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 07. Januar 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 05. Februar 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 06. März 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
@@ -94,6 +93,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Montag, 1. August 2022: <a href="images/Alpenblick_Flyer_1_August_2022.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 <!-- * Sonntag, 07. August 2022: <a href="images/Alpenblick_Flyer_Ziegenfest_2022.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
 <!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
+<!-- * Donnerstag, 08. Dezember 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
 
 ## Auf Geschenksuche? Warum nicht ...
@@ -107,7 +107,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* Oktober und November 2022: Keine Teilnahmen
+* Oktober bis Dezember 2022: Keine Teilnahmen
 * Siegerfoto September 2022: <a href="images/Alpenblick_alpenblickwinkel_22_09_wuerschtom.png" target="_blank"> Tom Würsch</a>
 * April 2022 bis August 2022: Keine Teilnahmen
 * Siegerfoto März 2022: <a href="images/Alpenblick_alpenblickwinkel_22_03_Andrea_Teufer.png" target="_blank"> Andrea Teufer</a>
