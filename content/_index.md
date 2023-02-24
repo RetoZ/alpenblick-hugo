@@ -82,9 +82,8 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 07. Januar 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 05. Februar 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 06. März 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* **ZUSÄTZLICH:** Mittwoch, 08. März 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Donnerstag, 06. April 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a>
 * Sonntag, 25. Dezember 2022: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a>
