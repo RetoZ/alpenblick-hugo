@@ -106,14 +106,12 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Instagram Foto Wettbewerb
 <a href="https://www.instagram.com/alpenblick_saasfee/" target="_blank" alt="Instagram" title="Instagram"><img src="images/Alpenblick_Insta_Foto_Wettbewerb.jpg" alt="Instagram"></a>
 
-* Oktober bis Dezember 2022: Keine Teilnahmen
+* Siegerfoto Januar 2023: <a href="images/Alpenblick_alpenblickwinkel_23_01_yoga_kristina.png" target="_blank"> Yoga Kristina</a>
+* Siegerfoto Dezember 2022: <a href="images/Alpenblick_alpenblickwinkel_22_12_fimian_pia.png" target="_blank"> Pia Fimian</a>
 * Siegerfoto September 2022: <a href="images/Alpenblick_alpenblickwinkel_22_09_wuerschtom.png" target="_blank"> Tom Würsch</a>
-* April 2022 bis August 2022: Keine Teilnahmen
 * Siegerfoto März 2022: <a href="images/Alpenblick_alpenblickwinkel_22_03_Andrea_Teufer.png" target="_blank"> Andrea Teufer</a>
-* August 2021 bis Februar 2022: Keine Teilnahmen
 * Siegerfoto Juli 2021: <a href="images/Alpenblick_alpenblickwinkel_21_07_udocasel.png" target="_blank"> udocasel</a>
 * Siegerfoto Juni 2021: <a href="images/Alpenblick_alpenblickwinkel_21_06_frederika_w.png" target="_blank"> frederika.w</a>
-* Oktober 2020 bis Mai 2021: Keine Teilnahmen
 * Siegerfoto September 2020: <a href="images/Alpenblick_alpenblickwinkel_20_09_hosch_daniel.png" target="_blank"> hosch.daniel</a>
 * Siegerfoto August 2020: <a href="images/Alpenblick_alpenblickwinkel_20_08_aerdna_nietsttew.png" target="_blank"> aerdna.nietsttew</a>
 * Siegerfoto Juli 2020: <a href="images/Alpenblick_alpenblickwinkel_20_07_misakj_kagesakj.png" target="_blank"> misakj_kagesakj</a>
