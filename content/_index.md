@@ -21,7 +21,7 @@ Normaler Text zwischen Linien<br>
 ---
 
 **AlpenSternenBlick**<br>
-Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Ab **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Adventurly_Zusammenarbeit.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Adventurly_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis!
+Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Ab **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Zusammenarbeit.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis!
 
 <!--
 
@@ -81,7 +81,7 @@ _Petra & Adi_
 
 ## Übernachten
 * Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
-* Ab Sommer 2023 ist unsere <a href="images/Alpenblick_Flyer_Adventurly_2023.jpg" target="_blank">Bubble-Suite</a> von Adventurly buchbar!
+* Ab Sommer 2023 ist unsere <a href="images/Alpenblick_Flyer_Bubble-Suite_2023.jpg" target="_blank">Bubble-Suite</a> von Adventurly buchbar!
 
 
 ## Aktuelle Anlässe
