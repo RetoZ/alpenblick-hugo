@@ -83,7 +83,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Donnerstag, 06. April 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-<!-- * Sonntag, 17. April 2022: <a href="images/Alpenblick_Flyer_Ostern_2022.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
+* Sonntag, 09. April 2023: <a href="images/Alpenblick_Flyer_Ostern_2023.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
 <!-- * Montag, 1. August 2022: <a href="images/Alpenblick_Flyer_1_August_2022.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 <!-- * Sonntag, 07. August 2022: <a href="images/Alpenblick_Flyer_Ziegenfest_2022.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
