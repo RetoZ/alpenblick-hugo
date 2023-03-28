@@ -62,7 +62,7 @@ Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 03. Juni 2022** w
 <br>
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
