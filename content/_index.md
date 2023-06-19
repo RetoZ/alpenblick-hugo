@@ -16,12 +16,11 @@ Normaler Text zwischen Linien<br>
 
 --- -->
 
+
+
+<!--
+
 <br>
-
----
-
-**AlpenSternenBlick**<br>
-Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Ab **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Zusammenarbeit.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis!
 
 ---
 
@@ -30,7 +29,7 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 23. April 2023** die Wintersa
 
 Am **Donnerstag, 08. Juni 2023** freuen wir uns, mit euch in die Sommersaison 2023 starten zu dürfen!
 
-<!--
+---
 
 **Früheres Saisonende wegen <a href="images/Alpenblick_Flyer_Umbau_2022.jpg" target="_blank"> Umbau</a> und Start Wintersaison 2022 / 23**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 25. September 2022** die Sommersaison. 
@@ -56,10 +55,10 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 24. Oktober 2021** die Sommer
 **Start Sommersaison 2022**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Freitag, 03. Juni 2022** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
--->
-
 ---
 <br>
+
+-->
 
 # Herzlich Willkommen ...
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
@@ -82,9 +81,12 @@ _Petra & Adi_
 * Our menu in <a href="images/Alpenblick_Menukarte_QR_Code_EN.pdf" target="_blank">english</a>
 
 
-## Übernachten
-* Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
-* Ab Sommer 2023 ist unsere <a href="images/Alpenblick_Flyer_Bubble-Suite_2023.jpg" target="_blank">Bubble-Suite</a> von Adventurly buchbar!
+## Übernachten unter Sternen
+Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Zusammenarbeit.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! **<a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">Hier direkt buchbar!</a>**
+
+
+## Übernachten im Massenlager
+Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
 
 
 ## Aktuelle Anlässe
