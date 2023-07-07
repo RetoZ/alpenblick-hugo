@@ -81,8 +81,14 @@ _Petra & Adi_
 * Our menu in <a href="images/Alpenblick_Menukarte_QR_Code_EN.pdf" target="_blank">english</a>
 
 
+<!-- ## Einen Tisch reservieren
+<input type='button' value='Online Tischreservation' 
+    data-lunchgate-modal-url='https://foratable.com/reserve/restaurant/3be5e5e9c7df6d02cb707c204c71a1ba/'>
+<script async defer src='https://static.foratable.com/iframeContainers.js'></script> -->
+
+
 ## Übernachten unter Sternen
-Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Zusammenarbeit.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! **<a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">Hier direkt buchbar!</a>**
+Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Tag.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! **<a href="https://www.alpenblick-saasfee.ch/gallery/" target="_blank">Hier ein paar Impressionen</a>** und **<a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">hier direkt buchbar!</a>**
 
 
 ## Übernachten im Massenlager
