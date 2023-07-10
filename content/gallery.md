@@ -33,6 +33,8 @@ menu:
 
 ![Bubble-Suite](../images/Alpenblick_Bubble-Suite_14.jpg "Bubble-Suite")
 
+![Bubble-Suite](../images/Alpenblick_Bubble-Suite_15.jpg "Bubble-Suite")
+
 ### Übernachten 2021
 ![Übernachten](../images/Alpenblick_Uebernachten_01.jpg "Übernachten")
 
