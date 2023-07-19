@@ -81,10 +81,10 @@ _Petra & Adi_
 * Our menu in <a href="images/Alpenblick_Menukarte_QR_Code_EN.pdf" target="_blank">english</a>
 
 
-<!-- ## Einen Tisch reservieren
-<input type='button' value='Online Tischreservation' 
-    data-lunchgate-modal-url='https://foratable.com/reserve/restaurant/3be5e5e9c7df6d02cb707c204c71a1ba/'>
-<script async defer src='https://static.foratable.com/iframeContainers.js'></script> -->
+## Einen Tisch reservieren
+* Statt telefonisch oder via E-Mail können Sie <a href="https://reserve.foratable.com?restaurantHash=3be5e5e9c7df6d02cb707c204c71a1ba" target="_blank">hier direkt einen Tisch reservieren</a>.
+* Au lieu de téléphoner ou d'envoyer un e-mail, vous pouvez <a href="https://reserve.foratable.com?restaurantHash=3be5e5e9c7df6d02cb707c204c71a1ba" target="_blank">réserver directement une table ici</a>.
+* Instead of calling or emailing, you can <a href="https://reserve.foratable.com?restaurantHash=3be5e5e9c7df6d02cb707c204c71a1ba" target="_blank">book a table directly here</a>.
 
 
 ## Übernachten unter Sternen
