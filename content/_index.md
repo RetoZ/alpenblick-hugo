@@ -86,7 +86,6 @@ _Petra & Adi_
 * Au lieu de téléphoner ou d'envoyer un e-mail, vous pouvez <a href="https://reserve.foratable.com?restaurantHash=3be5e5e9c7df6d02cb707c204c71a1ba" target="_blank">réserver directement une table ici</a>.
 * Instead of calling or emailing, you can <a href="https://reserve.foratable.com?restaurantHash=3be5e5e9c7df6d02cb707c204c71a1ba" target="_blank">book a table directly here</a>.
 
-Test
 
 ## Übernachten unter Sternen
 Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Tag.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! **<a href="https://www.alpenblick-saasfee.ch/gallery/" target="_blank">Hier ein paar Impressionen</a>** und **<a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">hier direkt buchbar!</a>**
