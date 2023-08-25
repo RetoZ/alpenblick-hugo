@@ -98,7 +98,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Donnerstag, 31. August 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-<!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
 * Freitag, 29. September 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Samstag, 28. Oktober 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 <!-- * Donnerstag, 08. Dezember 2022: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
@@ -113,6 +112,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
 <!-- * Dienstag, 1. August 2023: <a href="images/Alpenblick_Flyer_1_August_2023.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 <!-- * Sonntag, 13. August 2023: <a href="images/Alpenblick_Flyer_Ziegenfest_2023.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
+<!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
 
 
 ## Auf Geschenksuche? Warum nicht ...
