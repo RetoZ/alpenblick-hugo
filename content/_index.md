@@ -25,7 +25,7 @@ Normaler Text zwischen Linien<br>
 ---
 
 **Start Wintersaison**<br>
-Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 ---
 
@@ -37,7 +37,7 @@ Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison 
 **Saisonende und Start Sommersaison**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
 
-Am **Donnerstag, XX. Juni 2024**, freuen wir uns, mit euch in die Sommersaison 2023 starten zu dürfen! 
+Am **Donnerstag, XX. Juni 2024** freuen wir uns, mit euch in die Sommersaison 2023 starten zu dürfen! 
 
 
 
