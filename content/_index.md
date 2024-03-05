@@ -20,19 +20,24 @@ Normaler Text zwischen Linien<br>
 
 
 
-<!-- <br>
+<br>
 
 ---
 
-**Start Wintersaison**<br>
-Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+**Saisonende**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
 
 ---
 
-<br> -->
+<br>
 
 
 <!-- 
+
+**Saisonende**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
+
+
 
 **Saisonende und Start Sommersaison**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
