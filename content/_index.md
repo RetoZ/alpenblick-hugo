@@ -6,9 +6,9 @@ menu:
 ---
 <!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
 
-<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 <!-- ---
 Normaler Text zwischen Linien<br>
@@ -20,7 +20,7 @@ Normaler Text zwischen Linien<br>
 
 
 
-<br>
+<!-- <br>
 
 ---
 
@@ -29,7 +29,7 @@ Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison s
 
 ---
 
-<br>
+<br> -->
 
 
 <!-- 
@@ -51,12 +51,17 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 29. Oktober 2023** die Sommer
 
 Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
+
+
+**Start Wintersaison**<br>
+Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+
 -->
 
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Herbst_2023_01.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
@@ -93,11 +98,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a>
-* Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a>
-* Mittwoch, 27. Dezember 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Donnerstag, 25. Januar 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Samstag, 24. Februar 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 25. März 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 <!-- * **ZUSÄTZLICH:** Mittwoch, 08. März 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 <!-- * Sonntag, 09. April 2023: <a href="images/Alpenblick_Flyer_Ostern_2023.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
@@ -105,6 +105,11 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Dienstag, 1. August 2023: <a href="images/Alpenblick_Flyer_1_August_2023.jpg" target="_blank"> Schweizer Nationalfeiertag</a> -->
 <!-- * Sonntag, 13. August 2023: <a href="images/Alpenblick_Flyer_Ziegenfest_2023.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
 <!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
+<!-- * Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a> -->
+<!-- * Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
+<!-- * Mittwoch, 27. Dezember 2023: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Donnerstag, 25. Januar 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Samstag, 24. Februar 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
 
 ## Auf Geschenksuche? Warum nicht ...
