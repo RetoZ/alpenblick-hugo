@@ -117,6 +117,10 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 
 
+## Erwähnungen in Blogbeiträgen
+* Skigebiet Inspirationen auf **<a href="https://www.ifolor.ch/inspirationen/skifahren-in-der-schweiz-die-besten-orte" target="_blank">ifolor.ch</a>**
+
+
 ## Auf Geschenksuche? Warum nicht ...
 * ... einen Alpenblick Gutschein via [E-Mail](mailto:info@alpenblick-saasfee.ch?Subject=Gutscheinbestellung) bestellen? 
 * ... ein Satz <a href="images/Alpenblick_Stirnband.jpg" target="_blank">heisse Ohren</a> verteilen?
