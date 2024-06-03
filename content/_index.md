@@ -24,8 +24,8 @@ Normaler Text zwischen Linien<br>
 
 ---
 
-**Saisonende**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
+**Start Sommersaison**<br>
+Wir freuen uns sehr, Sie nach der Zwischensaison ab **Samstag, 08. Juni 2024** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
 ---
 
@@ -33,6 +33,16 @@ Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersa
 
 
 <!-- 
+
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 29. Oktober 2023** die Sommersaison. 
+
+Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+
+
+
+**Start Wintersaison**<br>
+Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 **Saisonende**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 21. April 2024** die Wintersaison. 
@@ -51,22 +61,12 @@ Wir freuen uns sehr, Sie nach der Zwischensaison ab **XXX, XX. Juni 2024** (bei 
 
 
 
-**Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 29. Oktober 2023** die Sommersaison. 
-
-Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
-
-
-
-**Start Wintersaison**<br>
-Am **Freitag, 15. Dezember 2023** freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
-
 -->
 
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
@@ -103,7 +103,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Sonntag, 31. März 2024: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 21. Juli 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
@@ -115,6 +114,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
 <!-- * Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a> -->
 <!-- * Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
+<!-- * Sonntag, 31. März 2024: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
