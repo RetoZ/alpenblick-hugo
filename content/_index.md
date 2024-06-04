@@ -101,7 +101,7 @@ Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www
 Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jpg" target="_blank">Massenlager</a> für Gruppen (von mind. 6 und max. 10 Personen) ist schlafbereit!
 
 
-## Aktuelle Anlässe TEST
+## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 <!-- * Samstag, 06. Juli 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Tavolata auf der Hannig mit dem Bergrestaurant Hannig</a> -->
