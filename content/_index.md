@@ -106,10 +106,10 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 <!-- * Samstag, 06. Juli 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Tavolata auf der Hannig mit dem Bergrestaurant Hannig</a> -->
 * Sonntag, 21. Juli 2024: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a>
-* Donnerstag, 1. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> Schweizer Nationalfeiertag</a>
-<!-- * Sonntag, 11. August 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Alpenblick Jubiläums Brunch</a> -->
+* Donnerstag, 1. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
+<!-- * Sonntag, 11. August 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Alpenblick Jubiläums-Apéro</a> -->
 * Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-<!-- * Sonntag, 08. September 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Nostaligische Genussmeile Saas-Fee</a> -->
+* Sonntag, 08. September 2024: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a>
 * Mittwoch, 18. September 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Donnerstag, 17. Oktober 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
