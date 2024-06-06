@@ -104,10 +104,13 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-<!-- * Samstag, 06. Juli 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Tavolata auf der Hannig mit dem Bergrestaurant Hannig</a> -->
+* Sonntag, 23. Juni 2024: Alpenblick Jubiläums-Apéro
+<!-- * Sonntag, 23. Juni 2024: <a href="images/Alpenblick_Flyer_Jubiläums-Apero.jpg" target="_blank"> Alpenblick Jubiläums-Apéro</a> -->
+* Samstag, 06. Juli 2024: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
 * Sonntag, 21. Juli 2024: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a>
-* Donnerstag, 1. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
-<!-- * Sonntag, 11. August 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Alpenblick Jubiläums-Apéro</a> -->
+* Donnerstag, 01. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
+* Sonntag, 11. August 2024: Alpenblick Jubiläums-Brunch
+<!-- * Sonntag, 11. August 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a> -->
 * Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Sonntag, 08. September 2024: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a>
 * Mittwoch, 18. September 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
