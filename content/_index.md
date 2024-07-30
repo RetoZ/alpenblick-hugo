@@ -101,7 +101,7 @@ _Liebe Grüsse, Adi_
 
 
 ## Übernachten unter Sternen
-Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Tag.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! **<a href="https://www.alpenblick-saasfee.ch/gallery/" target="_blank">Hier ein paar Impressionen</a>** und **<a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">hier direkt buchbar!</a>**
+Wir freuen uns sehr, euch über unsere Zusammenarbeit mit **<a href="https://www.adventurly.ch" target="_blank">adventurly.ch</a>** informieren zu können! Seit **Sommer 2023** könnt ihr unsere romantische <a href="images/Alpenblick_Bubble-Suite_Tag.jpg" target="_blank">Alpenblick Bubble-Suite</a> buchen und eine unvergessliche Nacht unter dem <a href="images/Alpenblick_Bubble-Suite_Nacht.jpg" target="_blank">Sternenhimmel</a> geniessen. Kombiniert mit den Alpenblick Gaumenfreuden ein garantiert unvergessliches Erlebnis! <a href="https://www.alpenblick-saasfee.ch/gallery/" target="_blank">Hier ein paar Impressionen</a> und <a href="https://adventurly.ch/unterkuenfte/bubble-suite-saas-fee/" target="_blank">hier direkt buchbar!</a>
 
 
 ## Übernachten im Massenlager
@@ -130,7 +130,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 
 ## Erwähnungen in Blogbeiträgen
-* Skigebiet Inspirationen auf <a href="https://www.ifolor.ch/inspirationen/skifahren-in-der-schweiz-die-besten-orte" target="_blank">ifolor.ch</a>
+* Skigebiet Inspirationen auf **<a href="https://www.ifolor.ch/inspirationen/skifahren-in-der-schweiz-die-besten-orte" target="_blank">ifolor.ch</a>**
 
 
 ## Auf Geschenksuche? Warum nicht ...
