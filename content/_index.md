@@ -85,7 +85,7 @@ Geniessen Sie unser renoviertes Bergrestaurant im Sommer- und Winterwandergebiet
 
 Die wunderschöne Sonnenterrasse mit herrlicher Aussicht auf die Berglandschaft und das rustikale Interieur unserer Zuckmayer Stube wird Ihnen gefallen. Sie werden von uns mit Schweizer Küche und feinen hausgemachten Kuchen verwöhnt.
 
-_Petra & Adi_
+_Liebe Grüsse, Adi_
 
 
 ## Essen & Trinken
@@ -130,7 +130,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 
 ## Erwähnungen in Blogbeiträgen
-* Skigebiet Inspirationen auf **<a href="https://www.ifolor.ch/inspirationen/skifahren-in-der-schweiz-die-besten-orte" target="_blank">ifolor.ch</a>**
+* Skigebiet Inspirationen auf <a href="https://www.ifolor.ch/inspirationen/skifahren-in-der-schweiz-die-besten-orte" target="_blank">ifolor.ch</a>
 
 
 ## Auf Geschenksuche? Warum nicht ...
