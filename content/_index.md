@@ -19,6 +19,9 @@ Normaler Text zwischen Linien<br>
 
 
 
+<!-- 
+
+-> Diese Start Ausklammerung unter das zweite BR verschieben.
 
 <br>
 
@@ -37,8 +40,6 @@ C'est avec plaisir que nous vous servirons à nouveau le dimanche 4 août 2024 c
 
 <br>
 
-
-<!-- 
 
 **Saisonende und Start Wintersaison**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, 29. Oktober 2023** die Sommersaison. 
