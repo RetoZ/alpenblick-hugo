@@ -114,11 +114,15 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
 * Donnerstag, 17. Oktober 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 15. Dezember 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Montag, 13. Januar 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Mittwoch, 12. Februar 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Freitag, 14. März 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
+* Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
 <!-- * Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a> -->
 <!-- * Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 <!-- * Sonntag, 31. März 2024: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
-<!-- * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
 <!-- * Sonntag, 21. Juli 2024: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
 <!-- * Donnerstag, 01. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a> -->
