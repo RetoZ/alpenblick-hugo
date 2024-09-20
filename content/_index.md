@@ -19,32 +19,24 @@ Normaler Text zwischen Linien<br>
 
 
 
+<br>
+
+---
+
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 27. Oktober 2024** die Sommersaison. 
+
+Am **Freitag, 13. Dezember 2024**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+
+---
+
+<br>
+
+
+
 <!-- 
 
 -> Diese Start Ausklammerung unter das zweite BR verschieben.
-
-<br>
-
----
-
-**Geschlossene Gesellschaft am Samstag, 3. August 2024**<br>
-Gerne bedienen wir euch am Sonntag, 4. August 2024 wieder wie gewohnt.
-
-**Closed society on Saturday, 3 August 2024**<br>
-We will be happy to serve you again as usual on Sunday, 4 August 2024.
-
-**Société fermée le samedi 3 août 2024**<br>
-C'est avec plaisir que nous vous servirons à nouveau le dimanche 4 août 2024 comme d'habitude.
-
----
-
-<br>
-
-
-**Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 29. Oktober 2023** die Sommersaison. 
-
-Am **Freitag, 15. Dezember 2023**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 
 
@@ -66,6 +58,16 @@ Am **Donnerstag, XX. Juni 2024** freuen wir uns, mit euch in die Sommersaison 20
 **Start Sommersaison**<br>
 Wir freuen uns sehr, Sie nach der Zwischensaison ab **Samstag, 08. Juni 2024** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
+
+
+**Geschlossene Gesellschaft am Samstag, 3. August 2024**<br>
+Gerne bedienen wir euch am Sonntag, 4. August 2024 wieder wie gewohnt.
+
+**Closed society on Saturday, 3 August 2024**<br>
+We will be happy to serve you again as usual on Sunday, 4 August 2024.
+
+**Société fermée le samedi 3 août 2024**<br>
+C'est avec plaisir que nous vous servirons à nouveau le dimanche 4 août 2024 comme d'habitude.
 
 
 
@@ -111,23 +113,21 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Donnerstag, 01. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
-* Sonntag, 11. August 2024:  <a href="images/Alpenblick_Flyer_Jubiläums-Brunch.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a>
-* Freitag, 16. August 2024: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
-* Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
-* Sonntag, 08. September 2024: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a>
-* Mittwoch, 18. September 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 * Donnerstag, 17. Oktober 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a>
 
-<!-- * Sonntag, 11. August 2024: <a href="images/Alpenblick_Flyer_XXX.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a> -->
-
-<!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
-<!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
 <!-- * Samstag, 24. Dezember 2022: <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a> -->
 <!-- * Montag, 25. Dezember 2023: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 <!-- * Sonntag, 31. März 2024: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 <!-- * Samstag, 22. Juni 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
 <!-- * Sonntag, 21. Juli 2024: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
+<!-- * Donnerstag, 01. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a> -->
+<!-- * Sonntag, 11. August 2024:  <a href="images/Alpenblick_Flyer_Jubiläums-Brunch.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a> -->
+<!-- * Freitag, 16. August 2024: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig) -->
+<!-- * Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
+<!-- * Sonntag, 08. September 2024: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a> -->
+<!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
+<!-- * Mittwoch, 18. September 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette Plausch</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
