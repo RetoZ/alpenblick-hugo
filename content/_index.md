@@ -6,9 +6,9 @@ menu:
 ---
 <!-- Ein-/Auskommentieren: Ctrl + K und gleich Ctrl + C -->
 
-<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
+{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_BLAU.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
 
-{{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}}
+<!-- {{< logo src="images/Restaurant_Alpenblick_Saas_Fee_Weihnachten.png" alt="Restaurant Alpenblick Saas-Fee Logo" class="logo" >}} -->
 
 <!-- ---
 Normaler Text zwischen Linien<br>
@@ -77,12 +77,11 @@ Am **Freitag, 13. Dezember 2024**, freuen wir uns, mit euch in die Wintersaison 
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Herbst_2023_01.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
 ![Alpenblick](images/Alpenblick_Herbst_2023_01.jpg "Alpenblick") -> HERBST
-![Alpenblick](images/Alpenblick_Ansicht_Take-away.jpg "Alpenblick")
  -->
 
 Geniessen Sie unser renoviertes Bergrestaurant im Sommer- und Winterwandergebiet Hannig auf 2030 Meter Höhe am Rand eines knorrigen Lärchen-Arven-Waldes und auf halbem Weg zwischen Hannig und Saas-Fee. 
