@@ -4,6 +4,29 @@ menu:
   main:
     weight: 3
 ---
+
+<!-- Dateiendung der Bilder muss kleingeschrieben sein: .jpg!!! -->
+
+### Winter 2024
+![Ansicht](../images/Alpenblick_Ansicht_Winter_2024_05.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_Winter_2024_02.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_Winter_2024_03.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_Winter_2024_04.jpg "Ansicht")
+
+![Ansicht](../images/Alpenblick_Ansicht_Winter_2024_06.jpg "Ansicht")
+
+![Aussicht](../images/Alpenblick_Aussicht_Almagellerhorn_Winter_2024_02.jpg "Aussicht")
+
+![Aussicht](../images/Alpenblick_Aussicht_Halo_Winter_2024.jpg "Aussicht")
+
+![Aussicht](../images/Alpenblick_Aussicht_Saas_Fee_Winter_2024_01.jpg "Aussicht")
+
+![Aussicht](../images/Alpenblick_Aussicht_Saas_Fee_Winter_2024_03.jpg "Aussicht")
+Bilder von Adrian Schwerzmann
+
 ### Adventurly Bubble-Suite 2023 - Teil II
 ![Bubble-Suite](../images/Alpenblick_Bubble-Suite_16.jpg "Bubble-Suite")
 
