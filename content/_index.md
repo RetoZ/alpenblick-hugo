@@ -127,12 +127,12 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 * Samstag, 19. Juli 2025: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
 * Sonntag, 27. Juli 2025: Ziegenfest Saas--Fee
 <!-- * Sonntag, 27. Juli 2025: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
+* Freitag, 01. August 2025: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
 * Samstag, 9. August 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Sonntag, 7. September 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Montag, 6. Oktober 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
-<!-- * Donnerstag, 01. August 2024: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a> -->
 <!-- * Sonntag, 11. August 2024:  <a href="images/Alpenblick_Flyer_Jubiläums-Brunch.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a> -->
 <!-- * Montag, 19. August 2024: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * Sonntag, 08. September 2024: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a> -->
