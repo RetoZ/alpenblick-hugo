@@ -119,7 +119,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2024.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Ostersonntag, 20. April 2025: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 * Mittwoch, 11. Juni 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Donnerstag, 10. Juli 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 19. Juli 2025: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
@@ -146,6 +145,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * AUSGEBUCHT – Freitag, 14. März 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * **ZUSÄTZLICH: AUSGEBUCHT – Samstag, 12. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>** -->
 <!-- * AUSGEBUCHT – Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Ostersonntag, 20. April 2025: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
