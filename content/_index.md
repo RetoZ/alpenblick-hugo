@@ -25,10 +25,9 @@ Normaler Text zwischen Linien<br>
 
 ---
 
-**Saisonende und Start Sommersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 27. April 2025** die Wintersaison. 
+**Start Sommersaison**<br>
 
-Am **Donnerstag, 5. Juni 2025** freuen wir uns, mit euch in die Sommersaison 2025 starten zu dürfen! 
+Wir freuen uns sehr, euch nach der Zwischensaison ab **Donnerstag, 5. Juni 2025** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
 
 ---
 
@@ -42,16 +41,29 @@ Am **Donnerstag, 5. Juni 2025** freuen wir uns, mit euch in die Sommersaison 202
 Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. April 202X** die Wintersaison. 
 
 
-
 **Saisonende und Start Sommersaison**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. April 202X** die Wintersaison. 
 
 Am **Donnerstag, XYZ. Juni 202X** freuen wir uns, mit euch in die Sommersaison 202X starten zu dürfen! 
 
 
-
 **Start Sommersaison**<br>
-Wir freuen uns sehr, Sie nach der Zwischensaison ab **Samstag, XYZ. Juni 202X** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+Wir freuen uns sehr, euch nach der Zwischensaison ab **Samstag, XYZ. Juni 202X** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+
+
+
+**Saisonende**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. Oktober 202X** die Sommersaison. 
+
+
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. Oktober 202X** die Sommersaison. 
+
+Am **Freitag, XYZ. Dezember 202X**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+
+
+**Start Wintersaison**<br>
+Am **Freitag, XYZ. Dezember 202X**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 
 
@@ -66,24 +78,12 @@ C'est avec plaisir que nous vous servirons à nouveau le dimanche XYZ août 202X
 
 
 
-**Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. Oktober 202X** die Sommersaison. 
-
-Am **Freitag, XYZ. Dezember 202X**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
-
-
-
-**Start Wintersaison**<br>
-Am **Freitag, XYZ. Dezember 202X**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
-
-
-
 -->
 
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
@@ -119,8 +119,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2024.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* **ZUSÄTZLICH: AUSGEBUCHT – Samstag, 12. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>**
-* AUSGEBUCHT – Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Ostersonntag, 20. April 2025: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 * Mittwoch, 11. Juni 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
 * Donnerstag, 10. Juli 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>
@@ -146,6 +144,8 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * AUSGEBUCHT – Mittwoch, 12. Februar 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * **ZUSÄTZLICH: AUSGEBUCHT – Donnerstag, 13. März 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>** -->
 <!-- * AUSGEBUCHT – Freitag, 14. März 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * **ZUSÄTZLICH: AUSGEBUCHT – Samstag, 12. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a>** -->
+<!-- * AUSGEBUCHT – Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette.jpg" target="_blank"> Vollmond Raclette</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
