@@ -18,17 +18,17 @@ Normaler Text zwischen Linien<br>
 
 
 
-<!-- <br>
+<br>
 
 ---
 
-**Start Sommersaison**<br>
+**Sonntag, 7. September 2025**
 
-Wir freuen uns sehr, euch nach der Zwischensaison ab **Donnerstag, 5. Juni 2025** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
+An diesem Tag bleibt der Alpenblick geschlossen. Dafür sind wir an der <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgischen Genussmeile Saas-Fee</a> anzutreffen!
 
 ---
 
-<br> -->
+<br>
 
 
 
