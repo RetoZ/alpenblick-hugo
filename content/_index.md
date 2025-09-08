@@ -18,7 +18,7 @@ Normaler Text zwischen Linien<br>
 
 
 
-<br>
+<!-- <br>
 
 ---
 
@@ -28,7 +28,7 @@ An diesem Tag bleibt der Alpenblick geschlossen. Dafür sind wir an der <a href=
 
 ---
 
-<br>
+<br> -->
 
 
 
