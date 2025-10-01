@@ -18,22 +18,22 @@ Normaler Text zwischen Linien<br>
 
 
 
-<!-- <br>
+<br>
 
 ---
 
-**Sonntag, 7. September 2025**
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 26. Oktober 2025** die Sommersaison. 
 
-An diesem Tag bleibt der Alpenblick geschlossen. Dafür sind wir an der <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgischen Genussmeile Saas-Fee</a> anzutreffen!
+Am **Freitag, 12. Dezember 2025**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 ---
 
-<br> -->
+<br>
 
 
 
 <!-- 
-Saisonschluss esch am Sonntig 26.Oktober Wintersaisonstart Freitag 12.Dezember.
 
 **Saisonende**<br>
 Wir geniessen mit euch noch bis und mit **Sonntag, XYZ. April 202X** die Wintersaison. 
@@ -114,8 +114,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 6. September 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-* Sonntag, 7. September 2025: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a>
 * Montag, 6. Oktober 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 3. Januar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Sonntag, 1. Februar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
@@ -134,6 +132,8 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Freitag, 1. August 2025: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a> -->
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
 <!-- * Sonntag, 11. August 2024:  <a href="images/Alpenblick_Flyer_Jubiläums-Brunch.jpg" target="_blank"> Alpenblick Jubiläums-Brunch</a> -->
+<!-- * Samstag, 6. September 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Sonntag, 7. September 2025: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/nostalgische-genussmeile" target="_blank"> Nostalgische Genussmeile Saas-Fee</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
