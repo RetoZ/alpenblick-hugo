@@ -22,9 +22,7 @@ Normaler Text zwischen Linien<br>
 
 ---
 
-**Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 26. Oktober 2025** die Sommersaison. 
-
+**Start Wintersaison**<br>
 Am **Freitag, 12. Dezember 2025**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 ---
