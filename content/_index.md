@@ -18,7 +18,7 @@ Normaler Text zwischen Linien<br>
 
 
 
-<br>
+<!-- <br>
 
 ---
 
@@ -27,7 +27,7 @@ Am **Freitag, 12. Dezember 2025**, freuen wir uns, mit euch in die Wintersaison 
 
 ---
 
-<br>
+<br> -->
 
 
 
