@@ -112,14 +112,12 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Sonntag, 1. Februar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-* Montag, 2. März 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-* Donnerstag, 2. April 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* **ZUSÄTZLICH: Mittwoch, 1. April 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>**
+* AUSGEBUCHT: Donnerstag, 2. April 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Ostersonntag, 5. April 2026: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a>
 
-<!-- * **ZUSÄTZLICH: AUSGEBUCHT – Donnerstag, 13. März 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>** -->
-<!-- * AUSGEBUCHT – Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * AUSGEBUCHT: Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
-<!-- * Ostersonntag, 20. April 2025: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 <!-- * Samstag, 19. Juli 2025: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig) -->
 <!-- * Sonntag, 27. Juli 2025: Ziegenfest Saas--Fee -->
 <!-- * Sonntag, 27. Juli 2025: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
@@ -131,6 +129,8 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * Mittwoch, 24. Dezember 2025:  <a href="images/Alpenblick_Flyer_Weihnachtsmenu.jpg" target="_blank"> Weihnachtsmenu</a> -->
 <!-- * Donnerstag, 25. Dezember 2025: <a href="images/Alpenblick_Flyer_Christmas_Fondue.jpg" target="_blank"> Christmas Fondue</a> -->
 <!-- * AUSGEBUCHT – Samstag, 3. Januar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Sonntag, 1. Februar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Montag, 2. März 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
