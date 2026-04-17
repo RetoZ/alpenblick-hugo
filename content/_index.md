@@ -117,7 +117,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 * Mittwoch, 29. Juli 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Sonntag, 9. August 2026: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a>
 * Freitag, 28. August 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-<!-- * Freitag, 4. September 2026: <a href="images/Alpenblick_Flyer_Fondue_Tavolata.jpg" target="_blank"> Käsefondue Tavolata</a> -->
+* Freitag, 4. September 2026: <a href="images/Alpenblick_Flyer_Fondue_Tavolata.jpg" target="_blank"> Käsefondue Tavolata im Alpenblick</a>
 * Samstag, 26. September 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 24. Oktober 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 
