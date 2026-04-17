@@ -76,7 +76,7 @@ C'est avec plaisir que nous vous servirons à nouveau le dimanche XYZ août 202X
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
