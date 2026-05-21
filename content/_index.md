@@ -18,16 +18,16 @@ Normaler Text zwischen Linien<br>
 
 
 
-<!-- <br>
+<br>
 
 ---
 
-**Start Wintersaison**<br>
-Am **Freitag, 12. Dezember 2025**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
+**Start Sommersaison**<br>
+Am **Donnerstag, 4. Juni 2026**, freuen wir uns, mit euch in die Sommersaison starten zu dürfen!
 
 ---
 
-<br> -->
+<br>
 
 
 
@@ -44,8 +44,7 @@ Am **Donnerstag, XYZ. Juni 202X** freuen wir uns, mit euch in die Sommersaison 2
 
 
 **Start Sommersaison**<br>
-Wir freuen uns sehr, euch nach der Zwischensaison ab **Samstag, XYZ. Juni 202X** wieder bei uns im Restaurant Alpenblick begrüssen und verwöhnen zu dürfen!
-
+Am **XYZ, XYZ. Juni 202X**, freuen wir uns, mit euch in die Sommersaison starten zu dürfen!
 
 
 **Saisonende**<br>
