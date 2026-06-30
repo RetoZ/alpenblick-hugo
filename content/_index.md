@@ -18,7 +18,7 @@ Normaler Text zwischen Linien<br>
 
 
 
-<br>
+<!-- <br>
 
 ---
 
@@ -27,7 +27,7 @@ Am **Donnerstag, 4. Juni 2026**, freuen wir uns, mit euch in die Sommersaison st
 
 ---
 
-<br>
+<br> -->
 
 
 
@@ -111,7 +111,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 ## Aktuelle Anlässe
 * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Montag, 29. Juni 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 18. Juli 2026: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
 * Mittwoch, 29. Juli 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 1. August 2026: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
@@ -134,6 +133,7 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * AUSGEBUCHT: Donnerstag, 2. April 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * Ostersonntag, 5. April 2026: <a href="images/Alpenblick_Flyer_Ostern.jpg" target="_blank"> Alpenblick Ostereiersuche</a> -->
 <!-- * AUSGEBUCHT: Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Montag, 29. Juni 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * Sonntag, 27. Juli 2025: Ziegenfest Saas--Fee -->
 
 
