@@ -18,16 +18,18 @@ Normaler Text zwischen Linien<br>
 
 
 
-<!-- <br>
+<br>
 
 ---
 
-**Start Sommersaison**<br>
-Am **Donnerstag, 4. Juni 2026**, freuen wir uns, mit euch in die Sommersaison starten zu dürfen!
+**Saisonende und Start Wintersaison**<br>
+Wir geniessen mit euch noch bis und mit **Sonntag, 25. Oktober 2026** die Sommersaison. 
+
+Am **Donnerstag, 10. Dezember 2026**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 ---
 
-<br> -->
+<br>
 
 
 
@@ -75,7 +77,7 @@ C'est avec plaisir que nous vous servirons à nouveau le dimanche XYZ août 202X
 
 
 # Herzlich Willkommen ...
-![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick")
+![Alpenblick](images/Alpenblick_Herbst_2023_01.jpg "Alpenblick")
 <!-- 
 ![Alpenblick](images/Alpenblick_Ansicht_16.jpg "Alpenblick") -> WINTER
 ![Alpenblick](images/Alpenblick_Ansicht_13.jpg "Alpenblick") -> SOMMER
@@ -110,15 +112,12 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 
 ## Aktuelle Anlässe
-* Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a>
-* Samstag, 18. Juli 2026: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig)
-* Mittwoch, 29. Juli 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-* Samstag, 1. August 2026: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a>
-* Sonntag, 9. August 2026: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a>
-* Freitag, 28. August 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
-* Freitag, 4. September 2026: <a href="images/Alpenblick_Flyer_Fondue_Tavolata.jpg" target="_blank"> Käsefondue Tavolata im Alpenblick</a>
-* Samstag, 26. September 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Samstag, 24. Oktober 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Freitag, 25. Dezember 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Freitag, 22. Januar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Sonntag, 21. Februar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Montag, 22. März 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
+* Freitag, 16. April 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 
 <!-- * 04. – 25. September 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gaumengaudi" target="_blank"> Saaser Gaumengaudi</a> (-> <a href="images/Alpenblick_Flyer_Saaser_Gaumengaudi_2022.jpg" target="_blank">Unser Menü</a>) -->
 <!-- * Sonntag, 10. Juli 2022: <a href="https://www.saas-fee.ch/de/events/top-events-im-sommer/saaser-gourmet-trail" target="_blank"> Saaser Gourmet-Trail</a> -->
@@ -135,6 +134,13 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 <!-- * AUSGEBUCHT: Sonntag, 13. April 2025: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * Montag, 29. Juni 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 <!-- * Sonntag, 27. Juli 2025: Ziegenfest Saas--Fee -->
+<!-- * Jeden Freitag: <a href="images/Alpenblick_Flyer_Freitag_Abend_Menu_2020.jpg" target="_blank"> Freitag Abend Überraschungsmenu</a> -->
+<!-- * Samstag, 18. Juli 2026: <a href="images/Alpenblick_Flyer_Hannig_Tavolata.jpg" target="_blank"> Hannig Tavolata</a> (mit dem Bergrestaurant Hannig) -->
+<!-- * Samstag, 1. August 2026: <a href="images/Alpenblick_Flyer_1_August.jpg" target="_blank"> 1.-August-BBQ</a> -->
+<!-- * Sonntag, 9. August 2026: <a href="images/Alpenblick_Flyer_Ziegenfest.jpg" target="_blank"> Ziegenfest Saas--Fee</a> -->
+<!-- * Freitag, 28. August 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
+<!-- * Freitag, 4. September 2026: <a href="images/Alpenblick_Flyer_Fondue_Tavolata.jpg" target="_blank"> Käsefondue Tavolata im Alpenblick</a> -->
+<!-- * Samstag, 26. September 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a> -->
 
 
 ## Erwähnungen in Blogbeiträgen
