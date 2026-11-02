@@ -22,9 +22,7 @@ Normaler Text zwischen Linien<br>
 
 ---
 
-**Saisonende und Start Wintersaison**<br>
-Wir geniessen mit euch noch bis und mit **Sonntag, 25. Oktober 2026** die Sommersaison. 
-
+**Start Wintersaison**<br>
 Am **Donnerstag, 10. Dezember 2026**, freuen wir uns, mit euch in die Wintersaison starten zu dürfen!
 
 ---
@@ -112,7 +110,6 @@ Unser kleines, aber feines <a href="images/Alpenblick_Flyer_Uebernachten_2022.jp
 
 
 ## Aktuelle Anlässe
-* Samstag, 24. Oktober 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Freitag, 25. Dezember 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Freitag, 22. Januar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
 * Sonntag, 21. Februar 2026: <a href="images/Alpenblick_Flyer_Vollmond_Raclette_Plausch.jpg" target="_blank"> Vollmond Raclette</a>
